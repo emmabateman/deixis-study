@@ -32,6 +32,15 @@ def tree_properties(example):
         features.append('label:'+label)
     if det:
         features.append('det:'+det)
+        if det in ['the','that','those']:
+            features.append('det-type:def')
+        elif det in ['a','an','another','this','these']:
+            features.append('det-type:indef')
+        else:
+            features.append('det-type:other')
+    else:
+        if label == 'NP':
+            features.append('det-type:none')
     return features
 
 #get words surrounding token
@@ -43,6 +52,15 @@ def leaf_properties(example):
 
     #get leaves surrounding token
     l = tok_tree.leaves()
+
+    #handle apostrophes
+    i = 0
+    while i < len(l):
+        if l[i] == '`':
+            l.remove('`')
+            l[i] = "'" + l[i]
+        i += 1
+
     tok_marker = '*tok' + re.search('\*tok(.+?)\*',example[0]).group(1) + '*'
     tok_idx = l.index(tok_marker)
     l.remove(tok_marker)
