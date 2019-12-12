@@ -1739,7 +1739,7 @@ Griffin
 (ROOT (S (ADVP (RB Hope)) (NP (PRP you)) (VP (VBP 're) (VP (VBG enjoying) (NP (PRP it)))) (. .)))
 (ROOT (S (NP (NNP Uh)) (PRN (, ,) (S (S (NP (PRP we)) (ADVP (RB usually)) (VP (VBP do) (S (NP (NN n`t)) (VP (VB put) (PRT (RP up)) (NP (NP (CD two) (JJ live) (NNS episodes)) (PP (IN in) (NP (DT a) (NN row)))))))) (, ,) (S (CC but) (NP (PRP we)) (ADVP (DT all)) (VP (VBP are) (ADJP (JJ sick)))) (, ,) (CC and) (S (NP (PRP we)) (ADVP (DT all)) (VP (VP (VBD were) (ADJP (RB super) (JJ sick)) (NP (JJ last) (NN week))) (, ,) (CC and) (VP (ADVP (RB just)) (MD could) (RB not) (VP (VB get) (NP (DT a) (JJ good) (NN recording) (NN time)) (SBAR (WHADVP (WRB where)) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP us)))) (VP (VBD was) (VP (VBN n`t) (PRN (, ,) (S (NP (NN y')) (VP (VBP know))) (, ,)) (S (VP (VBG floating) (PRT (RP on)) (SBAR (IN that) (S (NP (`` `) (NP (NNP Quil)) (, ,) (CC or) (NP (NN y'))) (VP (VBP know))))))))))))))) (, ,)) (VP (VBD had) (NP (NP (DT a) (NN voice)) (SBAR (WHNP (WDT that)) (S (VP (VBD sounded) (SBAR (S (PP (IN like) (NP (PRP we))) (NP (`` `) (NP (SYM d)) (VP (VBN been) (VP (VBG eating))) (, ,)) (VP (VBP um) (PRN (, ,) (S (NP (NN y')) (VP (VBP know))) (, ,)) (NP (NN sand) (NNS burgers)))))))))) (. .)))
 (ROOT (FRAG (CC Or) (ADVP (RB whatever)) (. .)))
-(ROOT (S (CC And) (ADVP (RB so)) (, ,) (NP (DT *tok111* this *tok111*)) (VP (VBZ is) (NP (DT a) (JJ live) (NN episode)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD did) (PP (IN in) (NP (NNP Philadelphia))))))) (. .)))
+(ROOT (S (CC And) (ADVP (RB so)) (, ,) (NP (DT *tok111* this *tok111*)) (VP (VBZ is) (*ref111*NP (DT a) (JJ live) (NN episode)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD did) (PP (IN in) (NP (NNP Philadelphia))))))) (. .)))
 (ROOT (S (S (ADVP (RB Quick)) (NP (NN programming)) (VP (VBP note))) (: --) (S (S (NP (PRP we)) (VP (VBD lost) (NP (NP (QP (RB about) (CD 20)) (NNS minutes)) (PP (IN of) (NP (PRP$ our) (NN audio)))))) (, ,) (CC and) (S (ADVP (RB so)) (, ,) (NP (PRP we)) (VP (VBD had) (S (VP (TO to) (VP (VB cut) (NP (DT some) (NN stuff)) (PRT (RP out)) (PP (IN of) (NP (NP (DT the) (NN middle)) (PP (IN of) (NP (DT the) (NN show))))))))))) (. .)))
 (ROOT (S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP come) (ADVP (RB back)) (PP (IN from) (NP (DT the) (NN ad)))))) (, ,) (S (INTJ (UH uh)) (, ,) (SBAR (IN for) (S (PP (IN like) (NP (CD 15) (NNS seconds)))) (CC or) (RB so)) (, ,) (NP (PRP it)) (VP (VBZ sounds) (NP (NP (NP (NN kind)) (PP (IN of) (ADJP (JJ weird)))) (, ,) (CC but) (RB then) (NP (NP (PRP we)) (ADJP (JJ right) (NP (NP (DT the) (NN ship)) (, ,) (NP (NNP and)))))))) (: ...) (S (ADVP (RB well)) (, ,) (NP (NNP Paul)) (VP (VBZ righted) (NP (DT the) (NN ship)))) (. .)))
 (ROOT (S (ADVP (IN So) (RB just)) (VP (VB want) (S (VP (TO to) (VP (VB give) (NP (PRP you)) (NP (DT a) (NNS heads)) (PP (RP up)))))) (. .)))
@@ -1761,7 +1761,7 @@ Griffin
 (ROOT (FRAG (NP (NP (NNP A)) (NP (NN job))) (. .) ('' '')))
 (ROOT (S (CC And) (ADVP (RB so)) (PRN (, ,) (S (NP (NP (DT the) (NN director)) (PP (IN of) (NP (NN coffee)))) (VP (VP (VBD came)) (CC and) (VP (VBD was) (ADJP (JJ like))))) (, ,)) (`` ``) (NP (NNP Yep)) (, ,) (ADVP (RB here)) (NP (PRP I)) (VP (VBP am)) (. .) ('' '')))
 (ROOT (S (CC And) (NP (NNP Dylan)) (VP (VBD was) (ADJP (RB so) (JJ happy)) (, ,) (SBAR (IN as) (S (NP (NP (CD four)) (PP (RB out) (IN of) (NP (CD five) (NNS employers)))) (VP (VBP are) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VP (VB post) (PP (IN on) (NP (NNP Zip) (NNP Recruiter)))) (CC and) (VP (VB get) (NP (DT a) (NN quality) (NN candidate)) (PP (IN within) (NP (DT the) (JJ first) (NN day))))))))))) (. .)))
-(ROOT (S (RB So) (ADVP (RB right) (RB now)) (, ,) (VP (VBP try) (NP (NP (NNP Zip) (NNP Recruiter)) (PP (IN for) (NP (NP (ADJP (JJ free) (PP (IN at) (NP (PRP$ our) (NN web)))) (NN address)) (, ,) (NP (NNP ZipRecruiter.com\/MyBrother)))))) (. .)))
+(ROOT (S (RB So) (ADVP (RB right) (RB now)) (, ,) (VP (VBP try) (NP (*ref112*NP (NNP Zip) (NNP Recruiter)) (PP (IN for) (NP (NP (ADJP (JJ free) (PP (IN at) (NP (PRP$ our) (NN web)))) (NN address)) (, ,) (NP (NNP ZipRecruiter.com\/MyBrother)))))) (. .)))
 (ROOT (S (NP (DT *tok112* That *tok112*)) (VP (`` `) (VBZ s) (ADJP (JJ ZipRecruiter.com\/MyBrother))) (. .)))
 (ROOT (NP (NP (NNP Zip) (NNP Recruiter)) (: :) (NP (NP (DT The) (JJS smartest) (NN way)) (SBAR (S (VP (TO to) (VP (VB hire)))))) (. .)))
 (ROOT (NP (NP (NNP Quick) (NNP update)) (: --) (S (NP (PRP we)) (VP (VBP are) (VP (VBG doing) (NP (DT a) (NNP Candlenights) (NN show)) (NP (DT this) (NN year))))) (. !)))
@@ -1772,12 +1772,12 @@ Griffin
 (ROOT (S (ADVP (RB Uh)) (, ,) (NP (PRP I)) (VP (VBP 'm) (VP (VBG talking) (PP (IN about) (NP (DT the) (NN movie) (NN theater) (NN downtown))))) (. .)))
 (ROOT (S (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG talking) (IN about)))) (, ,) (S (INTJ (UH uh)) (, ,) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (EX there)) (`` `) (VP (VBZ s) (ADVP (RB still)) (NP (DT a) (NNP Max))))))) (CC and) (S (NP (NNP Irma)) (`` `) (VP (VBZ s) (ADVP (RB down) (RB there)))) (. .)))
 (ROOT (S (NP (PRP You)) (VP (VP (MD can) (VP (VB see) (NP (DT the) (NNS sights)))) (, ,) (VP (VBZ sounds)) (, ,) (CC and) (VP (VBZ smells) (PP (IN of) (NP (NP (DT the) (NNP My) (NNP Brother)) (, ,) (NP (PRP$ My) (NN Brother)) (, ,) (CC and) (NP (JJ Me) (NN TV) (NN show)))))) (. .)))
-(ROOT (S (PP (IN Walk) (NP (DT the) (NNP Marshall) (NNPS Campus))) (, ,) (NP (PRP I)) (VP (VBP think)) (. .)))
+(ROOT (*ref113*S (PP (IN Walk) (NP (DT the) (NNP Marshall) (NNPS Campus))) (, ,) (NP (PRP I)) (VP (VBP think)) (. .)))
 (ROOT (FRAG (ADVP (RB Maybe)) (. .)))
 (ROOT (S (NP (PRP You)) (VP (VBP 're) (ADVP (RB probably)) (VP (VBN allowed) (S (VP (TO to) (VP (VB do)))))) (. .)))
 (ROOT (S (NP (PRP They)) (`` `) (VP (VBP ll) (ADVP (RB probably)) (VP (VB be) (PP (IN on) (NP (NN winter) (NN break))))) (. .)))
 (ROOT (S (CC But) (NP (DT *tok113* that *tok113*)) (VP (MD may) (VP (VB be) (NP (NN trespassing) (, ,) (RB so) (NN check)) (PP (IN on) (NP (DT that) (NN one))))) (. .)))
-(ROOT (S (ADVP (RB Anyway)) (, ,) (NP (PRP$ our) (NN show)) (NP (DT this) (NN year)) (VP (VBZ is) (ADJP (DT a) (RB little) (NN bit) (JJ different))) (. .)))
+(ROOT (S (ADVP (RB Anyway)) (, ,) (*ref114*NP (PRP$ our) (NN show)) (NP (DT this) (NN year)) (VP (VBZ is) (ADJP (DT a) (RB little) (NN bit) (JJ different))) (. .)))
 (ROOT (S (S (NP (PRP We)) (VP (VBP are) (VP (VBG doing) (NP (PRP it)) (PP (IN in) (NP (NNP Huntington)))))) (, ,) (CC but) (S (NP (PRP we)) (VP (VBP have) (NP (DT a) (JJ new) (NN venue)))) (. .)))
 (ROOT (S (NP (PRP We)) (`` `) (VP (VBP re) (S (VP (VBG doing) (NP (PRP it)) (PP (IN at) (NP (NP (NNP Keith) (NNP Albee)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT this) (JJ big) (, ,) (JJ beautiful) (NN theater)) (PP (IN in) (NP (JJ downtown) (NNP Huntington)))))))))))) (. .)))
 (ROOT (S (NP (PRP We)) (`` `) (VP (VBP re) (ADJP (RB so) (JJ stoked) (S (VP (TO to) (VP (VB be) (VP (VBG doing) (NP (PRP it)) (ADVP (RB there)))))))) (. .)))
@@ -1792,34 +1792,34 @@ Griffin
 (ROOT (S (S (NP (PRP We)) (`` `) (VP (VBP re) (SBAR (S (NP (NN gonna)) (VP (VBP have) (NP (DT some))))))) (, ,) (NP (NN y')) (VP (VBP know) (, ,) (S (NP (NNP McElroy)) (NP (NNS openers)))) (. .)))
 (ROOT (S (VP (ADVP (RB Probably)) (VB get) (NP (PRP you)) (ADVP (IN out) (PP (IN of) (NP (NP (RB there)) (PP (IN around) (NP (QP (CD seven) (CC or) (RB so))))))) (S (VP (TO to) (VP (VB go) (VP (VBN hit) (PRT (RP up)) (NP (DT some) (ADJP (JJ tasty)) (NN food) (NNS spots))))))) (. .)))
 (ROOT (S (VP (VP (VB Uh)) (, ,) (CC and) (VP (VB yeah))) (. .)))
-(ROOT (S (NP (NP (DT The) (JJ other) (NN thing)) (PP (IN at) (NP (NNP Keith) (NNP Albee)))) (VP (VBZ is) (, ,) (SBAR (S (NP (PRP it)) (`` `) (VP (VBZ s) (NP (JJ general) (NN admission)))))) (. .)))
+(ROOT (S (NP (NP (DT The) (JJ other) (NN thing)) (PP (IN at) (NP (NNP Keith) (NNP Albee)))) (VP (VBZ is) (, ,) (*ref115*SBAR (S (NP (PRP it)) (`` `) (VP (VBZ s) (NP (JJ general) (NN admission)))))) (. .)))
 (ROOT (S (RB So) (VP (ADVP (RB just)) (VB keep) (NP (NP (DT *tok115* that *tok115*)) (PP (IN in) (NP (NN mind)))) (SBAR (WHADVP (WRB whenever)) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG planning) (NP (PRP$ your) (NN travel) (S (VP (TO to) (VP (VB get) (PRT (RP in))))))))))) (. .)))
 (ROOT (S (NP (NNP Uh)) (, ,) (CC and) (ADVP (RB yeah)) (, ,) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT *tok116* that *tok116*)) (`` `) (VP (VBZ s) (NP (PRP it)))))) (. .)))
 (ROOT (FRAG (INTJ (UH Oh)) (, ,) (ADVP (RB right)) (, ,) (NP (NNS tickets)) (. .)))
-(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB get) (NP (NNS tickets)))))))) (, ,) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ gonna) (SBAR (S (VP (VBP go) (PP (IN on) (NP (NP (NN sale)) (NP (DT this) (NN week))))))))) (. .)))
+(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (*ref117*VP (VB get) (NP (NNS tickets)))))))) (, ,) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ gonna) (SBAR (S (VP (VBP go) (PP (IN on) (NP (NP (NN sale)) (NP (DT this) (NN week))))))))) (. .)))
 (ROOT (S (NP (NNP Friday)) (, ,) (NP (NNP November)) (VP (VBZ 8th) (PP (IN at) (NP (CD 12:00) (NNP PM) (NNP Eastern) (NN time)))) (. .)))
 (ROOT (S (NP (PRP We)) (VP (MD will) (VP (VB have) (NP (NP (NNS links)) (SBAR (WHADVP (WRB where)) (S (NP (PRP you)) (VP (MD can) (VP (VB do) (NP (NP (DT *tok117* that *tok117*)) (PP (IN on) (NP (PRP$ our) (JJ social) (NNS media) (NNS channels))))))))))) (. .)))
 (ROOT (S (NP (PRP You)) (VP (MD can) (ADVP (RB also)) (VP (VB find) (NP (PRP them)) (PP (IN at) (NP (NNP McElroy))))) (. .)))
 (ROOT (S (NP (NNP Uh)) (, ,) (ADVP (RB so)) (VP (VBP yeah)) (. .)))
-(ROOT (S (NP (DT *tok118* That *tok118*)) (VP (`` `) (VBZ s) (ADJP (JJ Candlenights))) (. .)))
+(ROOT (S (NP (DT *tok118* That *tok118*)) (VP (`` `) (VBZ s) (*ref118*NP (NN Candlenights))) (. .)))
 (ROOT (S (NP (PRP We)) (VP (VBP hope) (S (NP (PRP you)) (VP (VB come) (PRT (RP out))))) (. .)))
 (ROOT (INTJ (UH Oh) (. !)))
 (ROOT (S (ADVP (RB Right)) (, ,) (NP (DT this) (NN year)) (ADVP (RB also)) (, ,) (NP (PDT all) (DT the) (NNS proceeds)) (VP (VBP are) (VP (VBG gonna) (VP (VB be) (VP (VBG going) (S (VP (TO to) (VP (VB benefit) (NP (NP (NNP Harmony) (NNP House)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (JJ great) (NN organization)) (PP (IN in) (NP (NNP Huntington))) (SBAR (WHNP (WDT that)) (S (VP (VBZ helps) (S (VP (TO to) (VP (VB provide) (NP (NP (JJ permanent) (NN housing) (CC and) (JJ different) (NN sort)) (PP (IN of) (NP (NN support) (NNS services)))) (PP (TO to) (NP (NP (JJ homeless) (NNS folks)) (VP (VBG living) (PP (IN in) (NP (NNP Huntington)))))))))))))))))))))))) (. .)))
 (ROOT (S (ADVP (RB So)) (, ,) (S (INTJ (UH uh)) (, ,) (NP (PRP we)) (`` `) (VP (VBP re) (ADJP (RB really) (JJ excited) (S (VP (TO to) (VP (VB be) (VP (VBG working) (PP (IN with) (NP (PRP them))) (NP (DT this) (NN year))))))))) (, ,) (CC and) (S (INTJ (UH uh)) (, ,) (ADVP (RB just)) (VP (VBZ excited) (PP (IN for) (NP (DT the) (NN show))))) (. .)))
 (ROOT (S (S (NP (PRP It)) (`` `) (VP (VBZ s) (ADVP (RB always)) (PP (JJ such) (NP (DT a) (NN fun) (NN holiday) (NN treat))))) (, ,) (CC and) (FRAG (INTJ (UH uh)) (, ,) (NP (NN yeah))) (. .)))
 (ROOT (S (NP (NNP Hope)) (VP (TO to) (VP (VB see) (NP (PRP you)) (ADVP (DT all) (RB there)))) (. .)))
-(ROOT (S (ADVP (RB Again)) (, ,) (NP (NNS tickets)) (VP (VBP go) (PP (IN on) (NP (NN sale))) (NP (DT this) (NNP Friday))) (. .)))
+(ROOT (*ref120*S (ADVP (RB Again)) (, ,) (NP (NNS tickets)) (VP (VBP go) (PP (IN on) (NP (NN sale))) (*ref119*NP (DT this) (NNP Friday))) (. .)))
 (ROOT (S (CC Or) (, ,) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sorry))) (. .)))
 (ROOT (S (S (NP (DT *tok119* That *tok119*)) (`` `) (VP (VBZ s) (NP (JJ next) (NNP Friday)))) (, ,) (NP (NNP November)) (VP (VBZ 8th)) (. .)))
 (ROOT (S (NP (PRP I)) (VP (VBD fucked) (NP (DT *tok120* that *tok120*)) (PRT (RP up))) (. .)))
 (ROOT (S (NP (PRP It)) (`` `) (VP (VBZ s) (NP (NP (NP (JJ next) (NNP Friday)) (, ,) (NP (NNP November) (NNP 8th)) (, ,)) (PP (IN at) (NP (CD 12:00) (NNP pm) (NNP Eastern) (NN time))))) (. .)))
 (ROOT (S (RB So) (ADVP (RB uh)) (, ,) (VP (VBP hope) (S (VP (TO to) (VP (VB see) (NP (PRP ya)) (ADVP (RB there)))))) (. .)))
-(ROOT (S (S (ADVP (RB Grab)) (NP (PRP them)) (VP (VBP tix))) (, ,) (CC and) (S (S (INTJ (UH uh)) (, ,) (VP (VB yeah))) (, ,) (NP (DT *tok121* that *tok121*)) (VP (VBZ 's) (NP (PRP it)))) (. .)))
+(ROOT (S (*ref121*S (ADVP (RB Grab)) (NP (PRP them)) (VP (VBP tix))) (, ,) (CC and) (S (S (INTJ (UH uh)) (, ,) (VP (VB yeah))) (, ,) (NP (DT *tok121* that *tok121*)) (VP (VBZ 's) (NP (PRP it)))) (. .)))
 (ROOT (NP (NP (NNP Enjoy)) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN episode)))) (. .)))
 (ROOT (S (VP (VB Bye)) (. .)))
 (ROOT (PRN (-LRB- -LRB-) (S (NP (NN music)) (VP (VBZ plays))) (-RRB- -RRB-)))
 Amy
-(ROOT (S (INTJ (UH Hello)) (, ,) (NP (DT *tok122* this *tok122*)) (VP (VBZ is) (NP (NNP Amy) (NNP Mann))) (. .)))
+(ROOT (S (INTJ (UH Hello)) (, ,) (NP (DT *tok122* this *tok122*)) (VP (VBZ is) (*ref122*NP (NNP Amy) (NNP Mann))) (. .)))
 Ted
 (ROOT (S (CC And) (NP (PRP I)) (VP (`` `) (VBP m) (NP (NNP Ted) (NNP Leo))) (. .)))
 Amy
@@ -1868,7 +1868,7 @@ Hannah
 Griffin
 (ROOT (S (INTJ (UH Oh)) (, ,) (VP (VB yeah)) (. .)))
 Hannah
-(ROOT (S (CC So) (S (NP (PRP I)) (VP (VBD got) (ADJP (JJ rid)) (PP (IN of) (NP (DT those))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBD bought) (NP (DT some) (JJ live) (NNS traps)) (PP (IN on) (NP (NNP Amazon))))) (. .)))
+(ROOT (S (CC So) (S (NP (PRP I)) (VP (VBD got) (ADJP (JJ rid)) (PP (IN of) (NP (DT those))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBD bought) (*ref123*NP (DT some) (JJ live) (NNS traps)) (PP (IN on) (NP (NNP Amazon))))) (. .)))
 Griffin
 (ROOT (INTJ (UH Okay) (. .)))
 Hannah
@@ -1886,7 +1886,7 @@ Audience
 Griffin
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Hannah
-(ROOT (S (ADVP (RB Well)) (PRN (, ,) (S (NP (PRP$ my) (NN strategy)) (VP (VBZ has) (VP (VBN been)))) (, ,)) (NP (EX there)) (`` `) (VP (VBZ s) (SBAR (IN like) (S (NP (NP (DT a) (ADJP (RB very) (, ,) (RB very) (JJ large)) (NN park)) (PP (IN near) (NP (PRP$ my) (NN apartment))) (SBAR (WHNP (WDT that)) (S (VP (VBP like)))) (, ,)) (VP (VBZ is) (RB not) (NP (NP (JJ near) (NN anyone)) (`` `) (SBAR (S (VP (VBZ s) (NP (NN house)))))))))) (. .)))
+(ROOT (*ref124*S (ADVP (RB Well)) (PRN (, ,) (S (NP (PRP$ my) (NN strategy)) (VP (VBZ has) (VP (VBN been)))) (, ,)) (NP (EX there)) (`` `) (VP (VBZ s) (SBAR (IN like) (S (*ref125*NP (NP (DT a) (ADJP (RB very) (, ,) (RB very) (JJ large)) (NN park)) (PP (IN near) (NP (PRP$ my) (NN apartment))) (SBAR (WHNP (WDT that)) (S (VP (VBP like)))) (, ,)) (VP (VBZ is) (RB not) (NP (NP (JJ near) (NN anyone)) (`` `) (SBAR (S (VP (VBZ s) (NP (NN house)))))))))) (. .)))
 Travis
 (ROOT (S (S (NP (DT *tok124* That *tok124*)) (VP (`` `) (VBZ s) (ADJP (JJ good)))) (, ,) (NP (DT the) (NN mouse)) (VP (MD will) (ADVP (RB totally)) (VP (VB survive) (ADVP (RB there)))) (. .)))
 (ROOT (S (NP (PRP They)) (VP (`` `) (VBP re) (ADJP (ADVP (RB definitely)) (JJ well-suited)) (PP (IN for) (NP (DT *tok125* this *tok125*)))) (. .)))
@@ -1903,7 +1903,7 @@ Justin
 (ROOT (FRAG (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (: --) (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB hear) (NP (DT this) (NN question)) (, ,) (PP (IN for) (ADJP (JJ sure))))))))) (. .)))
 (ROOT (SBARQ (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBD called) (NP (DT the) (NN landlord) (S (VP (TO to) (VP (VB say) (, ,) (`` ``) (S (NP (EX There)) (VP (VBP are) (NP (NP (NNS mice)) (PP (IN in) (NP (RB here))))))))))))) (, ,) ('' '') (WHNP (WP what)) (SQ (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VBP think) (SBAR (S (VP (VBD was) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (ADVP (JJ next)) (, ,) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (DT that) (NN conversation))))))))))))))))) (. ?)))
 Hannah
-(ROOT (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (, ,) (ADVP (DT a) (RBR less)) (: ...) (FRAG (NP (JJ gross) (NN one))))) (. .)))
+(ROOT (*ref126*S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (, ,) (ADVP (DT a) (RBR less)) (: ...) (FRAG (NP (JJ gross) (NN one))))) (. .)))
 Justin
 (ROOT (S (INTJ (UH Okay)) (, ,) (NP (DT *tok126* that *tok126*)) (VP (`` `) (VBZ s) (ADJP (JJ fair))) (. .)))
 Travis
@@ -1918,8 +1918,8 @@ Audience
 Griffin
 (ROOT (NP (NP (NP (NNP Okay)) (, ,) (ADVP (RB so))) (: ...)))
 Hannah
-(ROOT (S (S (IN So) (NP (PRP$ my) (NN question)) (VP (VBZ is) (, ,) (SBAR (S (NP (PRP I)) (VP (VBP um)))))) (: ...) (S (NP (PRP$ my) (NN strategy)) (ADVP (RB so) (RB far)) (VP (VBZ has) (VP (VBN been) (S (VP (TO to) (VP (VB carry) (NP (NP (DT the) (NN mouse) (NN trap)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN made) (PP (IN of) (NP (NP (ADJP (JJ clear) (, ,) (JJ green)) (NN plastic)) (, ,) (ADVP (RB down) (NP (DT the) (NN street)) (PP (TO to) (NP (DT the) (NN park))))))))))))))))) (. .)))
-(ROOT (SBARQ (CC And) (WHADVP (WRB how)) (SQ (MD can) (NP (PRP I)) (VP (VB continue) (S (VP (TO to) (VP (VP (VB do) (NP (DT *tok127* this *tok127*))) (CC and) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB kill) (NP (NNS mice)) (PP (IN with) (NP (PRP$ my) (JJ bare) (NNS hands)))))))))))) (. ?)))
+(ROOT (S (S (IN So) (NP (PRP$ my) (NN question)) (VP (VBZ is) (, ,) (SBAR (S (NP (PRP I)) (VP (VBP um)))))) (: ...) (S (NP (PRP$ my) (NN strategy)) (ADVP (RB so) (RB far)) (VP (VBZ has) (VP (VBN been) (S (VP (TO to) (*ref127*VP (VB carry) (NP (NP (DT the) (NN mouse) (NN trap)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN made) (PP (IN of) (NP (NP (ADJP (JJ clear) (, ,) (JJ green)) (NN plastic)) (, ,) (ADVP (RB down) (NP (DT the) (NN street)) (PP (TO to) (NP (DT the) (NN park))))))))))))))))) (. .)))
+(ROOT (SBARQ (CC And) (WHADVP (WRB how)) (SQ (MD can) (NP (PRP I)) (VP (VB continue) (S (VP (TO to) (VP (VP (VB do) (NP (DT *tok127* this *tok127*))) (CC and) (RB not) (VP (VB have) (*ref128**ref129**ref130*S (VP (TO to) (VP (VB kill) (NP (NNS mice)) (PP (IN with) (NP (PRP$ my) (JJ bare) (NNS hands)))))))))))) (. ?)))
 Travis
 (ROOT (FRAG (NP (NNP Whoa)) (. !)))
 (ROOT (S (NP (DT No) (NN one)) (VP (VBD was) (VP (VBG saying) (NP (DT *tok128* that *tok128*)))) (. !)))
@@ -1948,7 +1948,7 @@ Griffin
 Hannah
 (ROOT (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (JJ little) (JJ plastic) (NN box))) (. .)))
 (ROOT (S (NP (DT The) (NN mouse)) (VP (VBZ is) (ADJP (RB clearly) (JJ visible) (PP (IN in) (NP (DT the) (JJ plastic) (NN box))))) (. .)))
-(ROOT (S (CC And) (ADVP (RB so)) (, ,) (NP (PRP I)) (VP (VBP 'm) (VP (VBG walking) (PRT (RP down)) (NP (NP (DT the) (NN street)) (PP (IN with) (NP (NP (DT a) (NN mouse)) (PP (IN in) (NP (DT a) (NN box)))))))) (. .)))
+(ROOT (S (CC And) (ADVP (RB so)) (, ,) (NP (PRP I)) (VP (VBP 'm) (*ref132*VP (VBG walking) (PRT (RP down)) (NP (NP (DT the) (NN street)) (PP (IN with) (NP (NP (DT a) (NN mouse)) (PP (IN in) (NP (DT a) (NN box)))))))) (. .)))
 Griffin
 (ROOT (ADVP (RB Right) (. .)))
 Hannah
@@ -1992,7 +1992,7 @@ Griffin
 Justin
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Hannah
-(ROOT (S (NP (PRP I)) (: --) (NP (PRP I)) (VP (VBP go) (PP (TO to) (SBAR (WHADVP (WRB where)) (S (NP (DT no) (NN one) (RB else)) (VP (VBZ is)))))) (. .)))
+(ROOT (*ref133*S (NP (PRP I)) (: --) (NP (PRP I)) (VP (VBP go) (PP (TO to) (SBAR (WHADVP (WRB where)) (S (NP (DT no) (NN one) (RB else)) (VP (VBZ is)))))) (. .)))
 Griffin
 (ROOT (S (NP (DT *tok133* That *tok133*)) (VP (`` `) (VBZ s) (ADJP (RB even) (JJR worse))) (. !)))
 Hannah
@@ -2002,7 +2002,7 @@ Griffin
 Travis
 (ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBN worried) (ADVP (IN at) (DT all)) (SBAR (IN that) (S (S (PP (IN by) (S (VP (VBG making) (NP (NP (DT a) (NN show)) (PP (IN of) (NP (DT *tok134* this *tok134*))))))) (, ,) (NP (PRP you)) (VP (VBP 're) (VP (VBG encouraging) (PP (IN like) (NP (NP (DT a) (NNP Danny) (NNP Ocean-esque) (NN mouse)) (SBAR (WHNP (WP who)) (S (VP (`` `) (VBZ s) (ADJP (JJ like)))))))))) (, ,) (`` ``) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG gonna) (S (VP (VB be) (NP (NP (DT the) (NN one)) (SBAR (WHNP (WP who)) (S (VP (VBZ survives))))))))))))) (. !)))
 (ROOT (S (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ gonna) (SBAR (S (VP (VBP get) (PP (IN in) (NP (RB there))))))))) (, ,) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ gonna) (SBAR (S (VP (VBD beat) (NP (DT the) (NN system))))))) (. !) ('' '')))
-(ROOT (S (CC And) (NP (PRP you)) (VP (MD 'll) (VP (VB have) (NP (NP (JJ like)) (, ,) (NP (NP (DT the) (JJ ultimate) (NN mouse)) (PP (IN in) (NP (PRP$ your) (NN home))))))) (. .)))
+(ROOT (*ref135*S (CC And) (NP (PRP you)) (VP (MD 'll) (VP (VB have) (NP (NP (JJ like)) (, ,) (NP (NP (DT the) (JJ ultimate) (NN mouse)) (PP (IN in) (NP (PRP$ your) (NN home))))))) (. .)))
 (ROOT (S (NP (DT *tok135* That *tok135*)) (`` `) (VP (VBZ s) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (MD would) (VP (VB worry) (PRT (RP about))))))) (. .)))
 Hannah
 (ROOT (S (NP (PRP I)) (VP (VBP am) (ADVP (RB now))) (. .)))
@@ -2020,7 +2020,7 @@ Griffin
 Travis
 (ROOT (S (CC And) (NP (EX there)) (`` `) (VP (VBZ s) (NP (NP (DT a) (NN mouse)) (PP (IN for) (NP (NN everyone))))) (. !)))
 Justin
-(ROOT (SBARQ (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG holding) (NP (NP (DT a) (NN mouse)) (PP (IN in) (NP (PRP$ your) (NN hand)))))))) (, ,) (WHADVP (WRB how)) (SQ (VBP do) (NP (PRP you)) (ADVP (RB not) (RB just)) (VP (VB die))) (. ?)))
+(ROOT (SBARQ (*ref136*SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG holding) (NP (NP (DT a) (NN mouse)) (PP (IN in) (NP (PRP$ your) (NN hand)))))))) (, ,) (WHADVP (WRB how)) (SQ (VBP do) (NP (PRP you)) (ADVP (RB not) (RB just)) (VP (VB die))) (. ?)))
 (ROOT (S (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB imagine) (ADJP (ADJP (NN anything) (JJR worse)) (PP (IN than) (NP (DT *tok136* that *tok136*))))))) (, ,) (CC and) (S (NP (PRP you)) (VP (VBP 're) (ADVP (RB just)) (VP (VBG holding) (NP (PRP it))))) (. ?)))
 (ROOT (S (-LRB- -LRB-) (NP (NP (NP (NNS makes)) (NP (DT a) (JJ disgusted) (NN sound) (-RRB- -RRB-))) (SBAR (WHADVP (WRB How)) (S (VP (VBP do) (NP (PRP you)))))) (VP (VBP do) (NP (PRP it))) (. ?)))
 Hannah
@@ -2045,7 +2045,7 @@ Justin
 (ROOT (S (NP (PRP It)) (VP (VBD was) (NP (PRP$ my) (JJ pretend) (NN mouse))) (. .)))
 (ROOT (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (NP (DT an) (NN asshole)))) (. .)))
 (ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (NP (NN home)))) (. .)))
-(ROOT (S (ADVP (RB Anyway)) (: ...) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sorry) (SBAR (S (NP (PRP I)) (VP (VBD gathered) (SBAR (IN so) (S (NP (JJ many) (NNS people)) (VP (TO to) (VP (VB watch) (NP (DT the) (JJ dramatic) (NN release))))))))))) (. .)))
+(ROOT (S (ADVP (RB Anyway)) (: ...) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sorry) (SBAR (S (NP (PRP I)) (VP (VBD gathered) (SBAR (IN so) (S (NP (JJ many) (NNS people)) (VP (TO to) (VP (VB watch) (*ref137*NP (DT the) (JJ dramatic) (NN release))))))))))) (. .)))
 Griffin
 (ROOT (PRN (-LRB- -LRB-) (S (VP (VBG laughing))) (-RRB- -RRB-)))
 Justin
@@ -2059,7 +2059,7 @@ Griffin
 (ROOT (INTJ (UH Okay) (. .)))
 (ROOT (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (JJ good) (NN answer))) (. .)))
 (ROOT (NP (DT The) (JJ first) (JJ good) (NN answer) (. .)))
-(ROOT (S (VP (VP (VB Hold) (NP (DT the) (NN box)) (PRT (RP out)) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (PRP you)))))) (, ,) (CC and) (VP (VP (VB sprint) (PRT (RP down)) (NP (NP (DT the) (NN street)) (VP (VBG yelling)))) (, ,) (`` ``) (VP (VB Get) (NP (DT the) (NN fuck)) (PRT (RP out)) (PP (IN of) (NP (DT the) (NN way) (NN !!))) ('' ''))))))
+(ROOT (*ref138*S (VP (VP (VB Hold) (NP (DT the) (NN box)) (PRT (RP out)) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (PRP you)))))) (, ,) (CC and) (VP (VP (VB sprint) (PRT (RP down)) (NP (NP (DT the) (NN street)) (VP (VBG yelling)))) (, ,) (`` ``) (VP (VB Get) (NP (DT the) (NN fuck)) (PRT (RP out)) (PP (IN of) (NP (DT the) (NN way) (NN !!))) ('' ''))))))
 Audience
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Griffin
@@ -2103,7 +2103,7 @@ Griffin
 Stephanie
 (ROOT (S (NP (PRP I)) (VP (VBP do)) (. .)))
 (ROOT (INTJ (UH Yeah) (. .)))
-(ROOT (S (NP (DT *tok140* This *tok140*)) (VP (VBZ is) (NP (DT a) (ADJP (RB really) (JJ good)) (NN one))) (. .)))
+(ROOT (*ref141*S (NP (DT *tok140* This *tok140*)) (VP (VBZ is) (NP (DT a) (ADJP (RB really) (JJ good)) (NN one))) (. .)))
 (ROOT (INTJ (UH Yeah) (. .)))
 (ROOT (NP (NP (RB So) (NN I)) (: --)))
 Griffin
@@ -2113,7 +2113,7 @@ Travis
 (ROOT (S (NP (PRP I)) (VP (VBP love) (NP (DT *tok141* that *tok141*))) (. .)))
 Griffin
 (ROOT (S (S (ADJP (`` ``) (JJ Yo))) (, ,) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ Stephanie))) (. .)))
-(ROOT (S (NP (DT *tok142* This *tok142*)) (VP (VBZ is) (NP (PRP$ my) (JJ new) (JJ fucking) (NN mix) (NN tape))) (. !)))
+(ROOT (S (NP (DT *tok142* This *tok142*)) (VP (VBZ is) (*ref142*NP (PRP$ my) (JJ new) (JJ fucking) (NN mix) (NN tape))) (. !)))
 (ROOT (S (VP (VB Prepare)) (. !) ('' '')))
 Audience
 (ROOT (PRN (-LRB- -LRB-) (S (VP (VBG laughing))) (-RRB- -RRB-)))
@@ -2128,7 +2128,7 @@ Griffin
 (ROOT (SINV (S (NP (PRP It)) (`` `) (VP (VBZ s))) (: ...) (NP (NNP okay)) (. .)))
 Stephanie
 (ROOT (S (ADVP (RB So)) (, ,) (NP (DT *tok144* this *tok144*)) (VP (VBZ is) (NP (NP (RB anytime)) (PP (IN of) (NP (DT the) (NN year)))) (, ,) (ADVP (RB honestly))) (. .)))
-(ROOT (S (ADVP (IN So) (ADJP (JJ um))) (, ,) (NP (PRP$ my) (NN dad)) (VP (MD will) (ADVP (RB actually)) (VP (VB buy) (NP (DT these) (JJ huge) (NNS masks)))) (. .)))
+(ROOT (*ref144*S (ADVP (IN So) (ADJP (JJ um))) (, ,) (NP (PRP$ my) (NN dad)) (VP (MD will) (ADVP (RB actually)) (*ref143*VP (VB buy) (NP (DT these) (JJ huge) (NNS masks)))) (. .)))
 (ROOT (S (NP (PRP He)) (`` `) (VP (VBZ s) (ADVP (RB actually)) (VP (VBN bought) (NP (JJ like) (, ,) (NN stage) (NNS masks)))) (. .)))
 (ROOT (S (NP (PRP He)) (`` `) (VP (VBZ s) (PP (IN into) (NP (JJ theatrical) (NNS things)))) (. .)))
 (ROOT (S (NP (PRP He)) (`` `) (VP (VBZ s) (ADVP (RB also)) (PP (IN into) (NP (DT those) (JJ little) (JJ cheap) (NNS ones))) (SBAR (IN that) (S (NP (PRP you)) (VP (MD can) (VP (VB buy) (PP (IN from) (NP (NNP CVS)))))))) (. .)))
@@ -2150,7 +2150,7 @@ Justin
 (ROOT (FRAG (INTJ (UH Okay)) (, ,) (NP (NNP Stephanie)) (. .)))
 (ROOT (NP (NP (NNP Stephanie)) (, ,) (NP (NP (NNS lots)) (PP (IN of) (NP (NNS masks)))) (. .)))
 Stephanie
-(ROOT (S (IN So) (NP (NP (PRP$ my) (NN fiancé)) (PP (IN of) (NP (NP (CD nine) (NNS years)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ crazy)) (: ...) (S (NP (PRP he)) (VP (VBZ gets))))))))) (VP (VBD scared)) (. .)))
+(ROOT (S (IN So) (NP (NP (PRP$ my) (NN fiancé)) (*ref145*PP (IN of) (NP (NP (CD nine) (NNS years)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ crazy)) (: ...) (S (NP (PRP he)) (VP (VBZ gets))))))))) (VP (VBD scared)) (. .)))
 Griffin
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Audience
@@ -2165,7 +2165,7 @@ Travis
 (ROOT (NP (NP (NNP Hey)) (, ,) (NP (NNP Steph)) (. ?)))
 (ROOT (NP (NP (JJ Future) (NN reference)) (: --) (S (NP (PRP you)) (VP (VBD did) (SBAR (S (NP (NN n`t)) (VP (VBP have) (S (VP (TO to) (VP (VB stay) (NP (DT *tok145* that *tok145*)))))))))) (. .)))
 Stephanie
-(ROOT (FRAG (NP (DT *tok146* That *tok146*)) (ADVP (RB long)) (. .)))
+(ROOT (FRAG (NP (DT That)) (ADVP (RB long)) (. .)))
 (ROOT (PRN (-LRB- -LRB-) (S (VP (VBG laughing))) (-RRB- -RRB-)))
 Justin
 (ROOT (S (NP (PRP It)) (VP (`` `) (VBZ s) (ADJP (JJ good))) (. .)))
@@ -2188,7 +2188,7 @@ Stephanie
 (ROOT (S (ADVP (RB So)) (PRN (, ,) (S (NP (PRP$ my) (NN dad)) (VP (MD will) (ADVP (RB just)) (VP (VB literally) (PP (IN at) (NP (DT any) (NN moment) (JJ possible)))))) (, ,)) (NP (PRP he)) (VP (MD will) (VP (VB scare) (NP (PRP$ my) (NN fiancé)) (PP (IN with) (NP (DT these) (NNS masks))))) (. .)))
 (ROOT (S (S (NP (PRP He)) (VP (MD will) (VP (VB be) (ADVP (RB outside) (PRN (, ,) (PP (IN like)) (, ,)) (S (VP (VBG unloading) (NP (DT the) (NN car)))))))) (, ,) (CC and) (S (S (NP (PRP$ my) (NN dad)) (VP (MD will) (VP (VB come) (PRT (RP around)) (NP (NP (DT the) (NN corner)) (PP (IN as) (NP (DT a) (JJ huge) (NN baby))))))) (, ,) (CC and) (S (NP (PRP he)) (VP (VBZ screams)))) (. .)))
 (ROOT (S (NP (PRP He)) (VP (VBZ freaks) (PRT (RP out))) (. .)))
-(ROOT (S (NP (PRP He)) (`` `) (VP (VBZ s) (ADVP (RB here)) (, ,) (PP (IN by) (NP (DT the) (NN way)))) (. .)))
+(ROOT (*ref147*S (NP (PRP He)) (`` `) (VP (VBZ s) (ADVP (RB here)) (, ,) (PP (IN by) (NP (DT the) (NN way)))) (. .)))
 Travis
 (ROOT (FRAG (NP (PRP$ Your) (NN dad)) (. ?)))
 Stephanie
@@ -2214,17 +2214,17 @@ Stephanie
 (ROOT (FRAG (ADVP (RB Anyway)) (, ,) (NP (RB yes)) (. .)))
 (ROOT (S (ADVP (RB There)) (NP (PRP he)) (VP (VBZ is)) (. .)))
 (ROOT (S (SBAR (PRN (-LRB- -LRB-) (NP (NNP laughs)) (-RRB- -RRB-)) (S (S (CC But) (ADVP (RB yeah)) (, ,) (ADVP (RB so)) (VP (VBP um))) (, ,) (CC and) (S (NP (PRP he)) (`` `) (VP (VBZ s) (ADVP (RB also)) (, ,) (ADVP (RB uh)))) (: --) (S (NP (PRP he)) (ADVP (RB recently)) (VP (VP (VBD got) (NP (DT a) (JJ wicked) (NN witch) (NN mask))) (, ,) (CC and) (VP (VBP um)))))) (, ,) (NP (PRP I)) (ADVP (RB just)) (VP (VBP want) (S (VP (TO to) (VP (VB support) (NP (PRP him)) (, ,) (SBAR (SBAR (IN because) (S (NP (PRP I)) (ADVP (RB really)) (VP (MD ca) (RB n't) (VP (VB stop) (NP (PRP$ my) (NN dad)))))) (, ,) (CC or) (SBAR (IN like) (, ,) (S (NP (NN y')) (VP (VBP know) (, ,) (NP (NP (NP (NN change)) (SBAR (WHNP (WP who)) (S (NP (PRP he)) (VP (VBZ is))))) (, ,) (CC or) (NP (PRP$ his) (NNS quirks))))))))))) (. .)))
-(ROOT (SBARQ (CC But) (WHADVP (WRB how)) (SQ (VBP do) (NP (PRP I)) (VP (VB support) (NP (PRP$ my) (NN fiancé)) (PP (IN in) (NP (DT this) (JJ interesting) (NN situation))))) (. ?)))
+(ROOT (*ref140*SBARQ (CC But) (WHADVP (WRB how)) (SQ (VBP do) (NP (PRP I)) (VP (VB support) (NP (PRP$ my) (NN fiancé)) (PP (IN in) (NP (DT this) (JJ interesting) (NN situation))))) (. ?)))
 Travis
 (ROOT (S (S (NP (NNP Y')) (VP (VBP know) (, ,) (S (VP (VB listen))))) (: ...) (S (S (ADJP (JJ um))) (, ,) (NP (PRP$ my) (NN dad)) (`` `) (VP (VBZ s) (VP (VBN got) (NP (NNS quirks))))) (. .)))
 Audience
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Travis
-(ROOT (S (S (NP (PRP$ My) (NN dad)) (VP (VBD stood) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (PRP you))))) (NP (NP (DT all)) (VP (VBN dressed) (PP (IN in) (NP (JJ nonsense) (NNS clothes))))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBD was) (NP (NN fun)))) (. .)))
+(ROOT (S (*ref148**ref149*S (NP (PRP$ My) (NN dad)) (VP (VBD stood) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (PRP you))))) (NP (NP (DT all)) (VP (VBN dressed) (PP (IN in) (NP (JJ nonsense) (NNS clothes))))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBD was) (NP (NN fun)))) (. .)))
 (ROOT (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ great))) (. .)))
 (ROOT (S (NP (DT *tok148* That *tok148*)) (VP (VBD was) (NP (NN fun))) (. .)))
 (ROOT (S (NP (DT *tok149* That *tok149*)) (`` `) (VP (VBZ s) (NP (DT a) (NN quirk))) (. .)))
-(ROOT (S (SBAR (WHNP (WP What)) (S (NP (PRP$ my) (NN dad)) (VP (VBZ does) (SBAR (S (NP (NN n`t)) (VP (VBP do))))))) (VP (VBZ is) (VP (VB scare) (NP (NNP Teresa)) (NP (PDT all) (DT the) (NN time)))) (. .)))
+(ROOT (S (SBAR (WHNP (WP What)) (S (NP (PRP$ my) (NN dad)) (VP (VBZ does) (SBAR (S (NP (NN n`t)) (VP (VBP do))))))) (VP (VBZ is) (*ref150*VP (VB scare) (NP (NNP Teresa)) (NP (PDT all) (DT the) (NN time)))) (. .)))
 (ROOT (PRN (-LRB- -LRB-) (S (VP (VBG laughing))) (-RRB- -RRB-)))
 Griffin
 (ROOT (PRN (-LRB- -LRB-) (S (VP (VBG laughing))) (-RRB- -RRB-)))
@@ -2253,7 +2253,7 @@ Griffin
 (ROOT (SQ (VBZ Is) (NP (DT the) (NNS scares)) (NP (NP (PRP$ your) (NN dad)) (SBAR (S (VP (VP (VBZ is) (VP (VBG generating) (NP (NP (JJR more)) (PP (IN of) (NP (NP (DT a) (JJ slow) (NN burn)) (, ,) (NP (NNP Hereditary-style)) (, ,)))))) (CC or) (VP (VBP are) (ADJP (NP (PRP they)) (RBR more) (JJ spooky))) (, ,) (S (VP (VB jump) (PRT (RP out)) (NP (DT the) (NN box) (NNS scares)))))))) (. ?)))
 Stephanie
 (ROOT (S (INTJ (UH No)) (, ,) (NP (PRP it)) (VP (`` `) (VBZ s) (ADJP (RB quite) (JJ quick))) (. .)))
-(ROOT (S (S (NP (PRP He)) (ADVP (RB just)) (VP (VBZ likes) (S (VP (TO to) (VP (VB come) (PRT (RP down)) (NP (DT the) (NNS stairs))))))) (, ,) (CC and) (S (NP (PRP he)) (VP (MD will) (VP (VB be) (VP (VBG reading) (NP (PRP$ his) (NN phone)))))) (, ,) (CC and) (ADVP (RB just)) (S (NP (NP (DT all)) (PP (IN of) (NP (DT a) (JJ sudden)))) (PRN (, ,) (S (S (NP (PRP he)) (`` `) (VP (VBZ s) (ADVP (RB right) (RB there)))) (, ,) (CC and) (S (NP (PRP he)) (VP (`` `) (VBZ s) (ADJP (JJ like))))) (, ,) (`` ``)) (VP (VBN Ahh))) (. !) ('' '')))
+(ROOT (*ref151*S (S (NP (PRP He)) (ADVP (RB just)) (VP (VBZ likes) (S (VP (TO to) (VP (VB come) (PRT (RP down)) (NP (DT the) (NNS stairs))))))) (, ,) (CC and) (S (NP (PRP he)) (VP (MD will) (VP (VB be) (VP (VBG reading) (NP (PRP$ his) (NN phone)))))) (, ,) (CC and) (ADVP (RB just)) (S (NP (NP (DT all)) (PP (IN of) (NP (DT a) (JJ sudden)))) (PRN (, ,) (S (S (NP (PRP he)) (`` `) (VP (VBZ s) (ADVP (RB right) (RB there)))) (, ,) (CC and) (S (NP (PRP he)) (VP (`` `) (VBZ s) (ADJP (JJ like))))) (, ,) (`` ``)) (VP (VBN Ahh))) (. !) ('' '')))
 (ROOT (S (S (NP (NNP Y')) (VP (VBP know))) (, ,) (NP (PRP he)) (ADVP (RB just)) (VP (VBZ yells)) (. .)))
 Travis
 (ROOT (S (NP (CD Nine) (NNS years)) (, ,) (NP (PRP you)) (VP (VBP 're) (RB not) (ADJP (JJ ready))) (. ?)))
@@ -2278,7 +2278,7 @@ Griffin
 (ROOT (INTJ (UH No) (. !)))
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Justin
-(ROOT (S (S (VP (TO To) (VP (VB put) (NP (NP (DT that) (NN kind)) (PP (IN of) (NP (NN energy)))) (PP (IN into) (NP (NP (DT the) (NN fiancé)) (SBAR (S (NP (PRP I)) (VP (VBP think))))))))) (VP (VBZ is) (ADJP (RB so) (JJ nice))) (. .)))
+(ROOT (*ref152*S (S (VP (TO To) (VP (VB put) (NP (NP (DT that) (NN kind)) (PP (IN of) (NP (NN energy)))) (PP (IN into) (NP (NP (DT the) (NN fiancé)) (SBAR (S (NP (PRP I)) (VP (VBP think))))))))) (VP (VBZ is) (ADJP (RB so) (JJ nice))) (. .)))
 (ROOT (S (ADVP (RB Now)) (ADVP (RB there)) (`` `) (VP (VBZ s) (ADVP (RB just)) (NP (NP (DT a) (JJ genuine) (NN level)) (PP (IN of) (S (VP (VBG caring) (PP (IN about) (NP (DT the) (NN fiancé)))))))) (. .)))
 Travis
 (ROOT (S (NP (PRP I)) (VP (VBP do) (SBAR (S (NP (NN n`t)) (VP (VBP think) (SBAR (S (NP (NNP Stephanie)) (VP (MD would) (VP (VB be) (ADVP (RB here)) (SBAR (IN if) (S (NP (DT the) (NN question)) (VP (VBD was) (, ,) (INTJ (`` ``) (UH Yeah)) (, ,) (S (NP (PRP$ my) (NN dad)) (VP (MD wo) (RB n't) (VP (VB stop) (NP (JJ comforting) (JJ my) (NNS fiancé)))))))))))))))) (. .) ('' '')))
@@ -2296,15 +2296,15 @@ Justin
 (ROOT (S (SBAR (IN Because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (IN like) (S (NP (EX there)) (`` `) (VP (VBZ s) (NP (NP (DT an) (NN amount)) (PP (IN of) (NP (NN time)))))))))) (NP (DT the) (NN comforting)) (VP (MD could) (VP (VB continue))) (. .)))
 Travis
 (ROOT (S (ADVP (RB Now)) (, ,) (ADVP (RB Stephanie)) (, ,) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBD heard) (SBAR (S (NP (PRP you)) (VP (VBP say) (NP (DT *tok153* this *tok153*))))))))) (. .)))
-(ROOT (SQ (VBZ Does) (NP (PRP$ your) (NN dad)) (ADVP (RB also)) (VP (VB scare) (NP (PRP you))) (. ?)))
+(ROOT (*ref153*SQ (VBZ Does) (NP (PRP$ your) (NN dad)) (ADVP (RB also)) (VP (*ref155*VB scare) (NP (PRP you))) (. ?)))
 Stephanie
-(ROOT (S (S (NP (NNP Uh) (, ,)) (VP (VBP yeah))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB honestly)) (VP (VBN used) (PP (TO to) (NP (PRP it)))))) (. .)))
+(ROOT (S (S (NP (NNP Uh) (, ,)) (VP (VBP yeah))) (, ,) (CC but) (*ref154*S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB honestly)) (VP (VBN used) (PP (TO to) (NP (PRP it)))))) (. .)))
 Justin
 (ROOT (S (NP (DT *tok154* That *tok154*)) (VP (`` `) (VBZ s) (ADJP (JJ right))) (. .)))
 Travis
 (ROOT (S (NP (PRP You)) (VP (VBP 're) (VP (VBN used) (PP (TO to) (NP (PRP it))))) (. !)))
 (ROOT (FRAG (NP (NNP Right)) (. ?)))
-(ROOT (S (CC But) (NP (DT *tok155* this *tok155*)) (VP (VBZ is) (RB not) (VP (JJ like) (, ,) (SBAR (NP (DT a) (NN thing)) (IN that) (S (NP (PRP$ your) (NN dad)) (ADVP (RB only)) (VP (VBZ does) (PP (TO to) (NP (PRP$ your) (NN fiancé)))))))) (. .)))
+(ROOT (*ref156*S (CC But) (NP (DT *tok155* this *tok155*)) (VP (VBZ is) (RB not) (VP (JJ like) (, ,) (SBAR (NP (DT a) (NN thing)) (IN that) (S (NP (PRP$ your) (NN dad)) (ADVP (RB only)) (VP (VBZ does) (PP (TO to) (NP (PRP$ your) (NN fiancé)))))))) (. .)))
 Stephanie
 (ROOT (NP (NNP Um) (: ...)))
 Audience
@@ -2392,7 +2392,7 @@ Rebecca
 Audience
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Travis
-(ROOT (S (S (`` `) (NP (NNP Chill)) (`` `) (VP (VBZ is) (NP (DT a) (JJ funny) (NN word) (S (VP (TO to) (VP (VB use) (ADVP (RB there)))))))) (: ...) (S (SBAR (IN because) (S (NP (DT *tok158* that *tok158*)) (VP (MD would) (VP (VB imply) (SBAR (IN that) (IN if) (S (NP (PRP you)) (VP (VBD did) (NP (DT this))))))))) (, ,) (NP (DT the) (JJ new) (NN owner)) (VP (MD would) (, ,) (PP (IN without) (NP (NN question))) (, ,) (VP (VB get) (NP (PRP it))))) (. .)))
+(ROOT (S (S (`` `) (NP (*ref158*NNP Chill)) (`` `) (VP (VBZ is) (NP (DT a) (JJ funny) (NN word) (S (VP (TO to) (VP (VB use) (ADVP (RB there)))))))) (: ...) (S (SBAR (IN because) (S (NP (DT *tok158* that *tok158*)) (VP (MD would) (VP (VB imply) (SBAR (IN that) (IN if) (S (NP (PRP you)) (VP (VBD did) (NP (DT this))))))))) (, ,) (NP (DT the) (JJ new) (NN owner)) (VP (MD would) (, ,) (PP (IN without) (NP (NN question))) (, ,) (VP (VB get) (NP (PRP it))))) (. .)))
 Justin
 (ROOT (INTJ (UH Yeah) (. .)))
 (ROOT (SBARQ (WHNP (WP What)) (SQ (NP (PRP I)) (VP (VB like) (FRAG (ADJP (IN about)) (: ...))))))
