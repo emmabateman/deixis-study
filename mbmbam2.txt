@@ -1001,7 +1001,7 @@ Travis
 (ROOT (S (S (INTJ (UH No)) (, ,) (NP (PRP I)) (VP (VBP 'm) (VP (VBG applying) (NP (NN stigma)) (PP (TO to) (NP (PRP you)))))) (, ,) (NP (NNP Griffin) (NNP McElroy)) (VP (`` `) (VBZ s) (ADJP (JJ body))) (. .)))
 Griffin
 (ROOT (INTJ (UH Yeah) (. .)))
-(ROOT (S (S (S (ADJP (JJ 'Cause))) (NP (PRP I)) (ADVP (RB just)) (VP (MD ca) (RB n't) (VP (VB think) (ADVP (IN of) (DT a))))) (: --) (S (SBAR (RB even) (S (NP (PRP me)) (VP (VBG going) (PP (IN like))))) (, ,) (`` ``) (ADVP (RB Right) (RB there)) (VP (`` `) (VBZ s) (ADJP (RB really) (JJ good)))) (. .) ('' '')))
+(ROOT (S (S (S (ADJP (JJ 'Cause))) (NP (PRP I)) (ADVP (RB just)) (VP (MD ca) (RB n't) (VP (VB think) (ADVP (IN of) (DT a))))) (: --) (S (SBAR (RB even) (*ref63*S (NP (PRP me)) (VP (VBG going) (PP (IN like))))) (, ,) (`` ``) (ADVP (RB Right) (RB there)) (VP (`` `) (VBZ s) (ADJP (RB really) (JJ good)))) (. .) ('' '')))
 (ROOT (S (NP (DT *tok63* That *tok63*)) (VP (VBZ feels) (ADJP (RB very) (JJ bossy))) (. .)))
 (ROOT (S (PP (IN Like)) (, ,) (NP (PRP I)) (VP (VBP know) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB do) (NP (PRP$ my) (NN job))))))) (. .)))
 (ROOT (S (S (NP (PRP I)) (VP (VBP do) (SBAR (S (NP (NN n`t)) (VP (VBP go) (S (VP (TO to) (VP (VB Domino) (`` `) (NP (PRP s)))))))))) (CC and) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ like)) (, ,) (S (INTJ (`` ``) (UH Yeah)) (, ,) (VP (VB make) (S (NP (PRP it)) (NP (DT a) (NN circle))))))) (. !) ('' '')))
@@ -1014,7 +1014,7 @@ Audience
 Travis
 (ROOT (FRAG (WHNP (WDT What)) (PP (IN about) (NP (DT *tok64* this *tok64*))) (. ?)))
 (ROOT (S (VP (VB Rub) (NP (NP (PRP$ my) (NN shoulder)) (, ,) (NP (NNP Griffin)))) (. .)))
-(ROOT (INTJ (UH Yes) (. !)))
+(ROOT (*ref64*INTJ (UH Yes) (. !)))
 Griffin
 (ROOT (FRAG (INTJ (UH No)) (, ,) (NP (NN god)) (. !)))
 Justin
@@ -1056,13 +1056,13 @@ Justin
 Travis
 (ROOT (S (NP (PRP He)) (VP (VBD did) (NP (PRP it))) (. !)))
 (ROOT (FRAG (NP (NNP Griffin)) (. ?)))
-(ROOT (FRAG (NP (DT A) (NN bell) (SBAR (S (NP (PRP you)) (VP (VBP say))))) (. ?)))
+(ROOT (*ref65*FRAG (NP (DT A) (NN bell) (SBAR (S (NP (PRP you)) (VP (VBP say))))) (. ?)))
 (ROOT (FRAG (IN Like) (SBAR (X (IN at)) (S (NP (NNP Trader) (NNP Joe)) (`` `) (VP (VBZ s)))) (. ?)))
 (ROOT (S (INTJ (UH No)) (, ,) (ADVP (RB here)) (`` `) (VP (VBZ s) (NP (DT the) (NN thing))) (. .)))
 (ROOT (S (NP (DT *tok65* That *tok65*)) (`` `) (VP (VBZ s) (NP (DT a) (NN mistake))) (. .)))
 (ROOT (S (PP (IN For) (NP (DT a) (JJ long) (NN time))) (PRN (, ,) (S (NP (PRP I)) (VP (VBD thought) (NP (DT the) (NN bell)) (PP (IN at) (NP (NP (NNP Trader) (NNP Joe)) (`` `) (NX (S (NP (PRP s)) (VP (VBD was) (SBAR (IN because) (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ like)))))))))))) (, ,)) (`` ``) (NP (PRP I)) (VP (VBD had) (NP (JJ great) (NN service))) (. !) ('' '')))
 (ROOT (SBARQ (RB So) (SBAR (WHNP (WHNP (CD one)) (NP (NN day))) (S (S (NP (PRP I)) (VP (VBD had) (NP (JJ great) (NN service)))) (CC and) (S (NP (PRP I)) (VP (VBD rang) (NP (PRP it)))))) (PRN (, ,) (S (CC and) (NP (DT a) (NN manager)) (VP (VP (VBD came) (PRT (RP over))) (CC and) (VP (VBD was) (ADJP (JJ like))))) (, ,)) (`` ``) (SQ (VBP Do) (NP (PRP you) (NNS guys)) (VP (VB need) (NP (NN help)))) (. ?) ('' '')))
-(ROOT (S (CC And) (NP (PRP they)) (VP (VBD were) (ADJP (JJ like)) (, ,) (`` ``) (NP (NP (DT *tok66* That *tok66*)) (: --) (S (NP (PRP you)) (VP (VBP ring) (NP (NP (DT the) (NN bell)) (PP (IN for) (NP (DT a) (NN manager)))))))) (. .) ('' '')))
+(ROOT (S (CC And) (NP (PRP they)) (VP (VBD were) (ADJP (JJ like)) (, ,) (`` ``) (NP (NP (DT That)) (: --) (S (NP (PRP you)) (VP (VBP ring) (NP (NP (DT the) (NN bell)) (PP (IN for) (NP (DT a) (NN manager)))))))) (. .) ('' '')))
 (ROOT (S (CC And) (NP (PRP I)) (VP (VBZ was) (ADJP (JJ like)) (, ,) (INTJ (`` ``) (UH Oh))) (. .) ('' '')))
 (ROOT (S (CC And) (RB then) (NP (PRP I)) (ADVP (RB never)) (VP (VBD went) (ADVP (RB back))) (. .)))
 Griffin
@@ -1070,7 +1070,7 @@ Griffin
 Audience
 (ROOT (PRN (-LRB- -LRB-) (S (VP (VBG laughing))) (-RRB- -RRB-)))
 Griffin
-(ROOT (S (VP (VBG Understanding) (NP (DT *tok67* that *tok67*))) (: --)))
+(ROOT (S (VP (VBG Understanding) (NP (DT that))) (: --)))
 Travis
 (ROOT (S (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB just)) (VP (VBG saying)))) (, ,) (NP (PRP we)) (VP (VBP live) (PP (IN in) (S (VP (VBG fucking) (NP (CD 2019)))))) (. !)))
 (ROOT (S (NP (EX There)) (`` `) (VP (VBZ s) (NP (DT a) (JJR better) (NN way) (S (VP (TO to) (VP (VB get) (NP (DT a) (NN manager)) (PP (IN than) (NP (DT an) (JJ old) (JJ timey) (NN ship) (NN bell)))))))) (. !)))
@@ -1079,7 +1079,7 @@ Griffin
 Audience
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Griffin
-(ROOT (S (CC But) (S (NP (PRP you)) (ADVP (RB also)) (VP (VB know) (, ,) (PP (IN in) (NP (DT that) (NN case))) (, ,) (NP (NP (JJ anytime) (NN anybody)) (VP (VBN rung) (NP (PRP you)) (PRT (RP up)))))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBP 're) (NP (ADJP (JJ like)) (, ,) (ADJP (`` ``) (JJ Ooh) (, ,) (JJ soft)) (JJ pretzel) (NN bread)))) (. .)))
+(ROOT (S (CC But) (S (NP (PRP you)) (ADVP (RB also)) (VP (VB know) (, ,) (PP (IN in) (NP (DT that) (NN case))) (, ,) (NP (NP (JJ anytime) (NN anybody)) (VP (VBN rung) (NP (PRP you)) (PRT (RP up)))))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBP 're) (NP (ADJP (JJ like)) (, ,) (ADJP (`` ``) (JJ Ooh) (, ,) (*ref68*NP (JJ soft) (JJ pretzel) (NN bread)))))) (. .)))
 (ROOT (S (NP (PRP I)) (VP (VBP love) (NP (DT *tok68* this *tok68*))) (. .) ('' '')))
 (ROOT (S (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (: --) (NP (PRP I)) (VP (VBP know))))))) (, ,) (NP (PRP it)) (VP (`` `) (VBZ s) (ADJP (JJ good))) (. .)))
 (ROOT (S (NP (DT Every) (NN time)) (, ,) (NP (PRP they)) (`` `) (VP (VBP re) (SBAR (IN like) (, ,) (`` ``) (S (NP (PRP I)) (VP (VBP love) (NP (DT the) (JJ soft) (JJ pretzel) (NN bread)))))) (. !) ('' '')))
@@ -1094,17 +1094,17 @@ Travis
 Griffin
 (ROOT (S (`` ``) (S (VP (VB Ooh)) (: ...)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP mention) (SBAR (WHADVP (WRB how) (RB much)) (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (JJ soft) (JJ pretzel) (NN bread))))))))) (. ?) ('' '')))
 Justin
-(ROOT (S (NP (NP (NNP No)) (: ...) (NP (NP (DT no) (NN collection)) (PP (IN of) (NP (NP (NNS sounds)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP have) (VP (VBN developed) (PP (IN as) (NP (DT a) (NN species)))))))))) (: ...)) (ADVP (RB appropriately)) (VP (VBZ conveys) (NP (NP (DT a) (NN sort)) (PP (IN of) (NP (NP (JJ tasteful) (NN level)) (PP (IN of) (NP (NN pleasure))))))) (. .)))
+(ROOT (S (NP (NP (NNP No)) (: ...) (NP (NP (DT no) (NN collection)) (PP (IN of) (NP (NP (NNS sounds)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP have) (VP (VBN developed) (PP (IN as) (NP (DT a) (NN species)))))))))) (: ...)) (*ref70*VP (ADVP (RB appropriately)) (VP (VBZ conveys) (NP (NP (DT a) (NN sort)) (PP (IN of) (NP (NP (JJ tasteful) (NN level)) (PP (IN of) (NP (NN pleasure)))))))) (. .)))
 Travis
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Griffin
 (ROOT (ADVP (RB Right) (. .)))
 Justin
-(ROOT (S (PP (IN In) (NP (NP (DT a) (NN massage)) (, ,) (NP (ADJP (RB completely) (JJ nonsexual)) (NN setting)))) (, ,) (NP (EX there)) (`` `) (VP (VBZ s) (NP (NP (NN nothing)) (SBAR (WHNP (WDT that)) (S (VP (`` `) (VBZ s) (ADJP (JJ appropriate))))))) (. .)))
+(ROOT (*ref69*S (PP (IN In) (NP (NP (DT a) (NN massage)) (, ,) (NP (ADJP (RB completely) (JJ nonsexual)) (NN setting)))) (, ,) (NP (EX there)) (`` `) (VP (VBZ s) (NP (NP (NN nothing)) (SBAR (WHNP (WDT that)) (S (VP (`` `) (VBZ s) (ADJP (JJ appropriate))))))) (. .)))
 Griffin
 (ROOT (ADVP (RB Right) (. .)))
 Travis
-(ROOT (S (NP (DT *tok69* That *tok69*)) (`` `) (VP (VBZ s) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP 've) (VP (VBN established) (NP (NNS tips))))))) (. .)))
+(ROOT (*ref72*S (NP (DT *tok69* That *tok69*)) (`` `) (VP (VBZ s) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP 've) (VP (VBN established) (NP (NNS tips))))))) (. .)))
 (ROOT (S (NP (NNP Money)) (VP (VBZ does) (NP (DT *tok70* that *tok70*))) (. .)))
 Justin
 (ROOT (INTJ (UH Yeah) (. .)))
@@ -1113,7 +1113,7 @@ Griffin
 Justin
 (ROOT (S (CC But) (NP (PRP you)) (VP (MD could) (ADVP (RB also))) (: --)))
 Griffin
-(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VB hand) (NP (NN somebody) (NN money)) (SBAR (IN while) (S (NP (PRP they)) (`` `) (VP (VBP re) (S (VP (VBG massaging) (NP (PRP you)))))))))) (, ,) (NP (DT *tok71* this *tok71*)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT a) (NN problem)) (, ,) (NP (NNP Travis)))) (. .)))
+(ROOT (S (*ref71*SBAR (IN If) (S (NP (PRP you)) (VP (VB hand) (NP (NN somebody) (NN money)) (SBAR (IN while) (S (NP (PRP they)) (`` `) (VP (VBP re) (S (VP (VBG massaging) (NP (PRP you)))))))))) (, ,) (NP (DT *tok71* this *tok71*)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT a) (NN problem)) (, ,) (NP (NNP Travis)))) (. .)))
 Travis
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Audience
@@ -1121,12 +1121,12 @@ Audience
 Travis
 (ROOT (S (NP (DT *tok72* That *tok72*)) (VP (VP (VBD was)) (: --) (S (VP (VB yeah)))) (. .)))
 Griffin
-(ROOT (S (S (INTJ (UH Oh)) (, ,) (NP (DT *tok73* that *tok73*)) (`` `) (VP (VBZ s) (NP (PRP it)))) (, ,) (NP (PRP you)) (VP (VBD found) (NP (DT the) (NN knot))) (. !)))
+(ROOT (S (S (INTJ (UH Oh)) (, ,) (NP (DT *tok73* that *tok73*)) (`` `) (VP (VBZ s) (NP (PRP it)))) (, ,) (NP (PRP you)) (VP (VBD found) (*ref73*NP (DT the) (NN knot))) (. !)))
 Justin
 (ROOT (S (NP (NNP Wait)) (, ,) (ADVP (RB maybe)) (NP (PRP you)) (VP (VBP need) (NP (NP (DT some) (JJ like) (, ,) (JJ meaningless) (NNS slogans)) (SBAR (IN that) (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP say) (S (VP (TO to) (VP (VP (VB indicate)) (, ,) (VP (VP (VB like)) (: ...) (VP (VB like))) (, ,) (VP (VB Trav)) (, ,) (VP (VB go) (ADVP (RB ahead))) (CC and) (VP (VB rub) (NP (PRP$ my) (NN back))))))))))) (. .)))
 (ROOT (S (NP (DT *tok74* That *tok74*)) (VP (`` `) (VBZ s) (ADJP (JJ good))) (. .)))
 (ROOT (FRAG (ADJP (DT A) (JJ little) (JJR lower)) (. ?)))
-(ROOT (S (ADVP (RB Okay)) (PRN (, ,) (CC and) (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB yell) (: ...) (`` ``) (INTJ (UH Oh))))) (, ,)) (NP (DT *tok75* that *tok75*)) (`` `) (VP (VBZ s) (NP (DT the) (NN mustard))) (. .) ('' '')))
+(ROOT (S (ADVP (RB Okay)) (PRN (, ,) (CC and) (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB yell) (: ...) (`` ``) (INTJ (UH Oh))))) (, ,)) (*ref76**ref77*S (NP (DT *tok75* that *tok75*)) (`` `) (VP (VBZ s) (NP (DT the) (NN mustard)))) (. .) ('' '')))
 Audience
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Justin
@@ -1134,7 +1134,7 @@ Justin
 Griffin
 (ROOT (S (S (NP (DT *tok77* That *tok77*)) (`` `) (VP (VBZ s) (ADVP (RB so)) (: --) (FRAG (VP (VB yeah))))) (, ,) (NP (PRP it)) (VP (`` `) (VBZ s) (ADJP (RB so))) (: --)))
 Justin
-(ROOT (S (S (NP (PRP It)) (VP (`` `) (VBZ s) (ADJP (JJ like)))) (, ,) (NP (PRP it)) (VP (MD could) (VP (VB n`t) (VP (VB be) (VP (VBN loaded) (PP (IN with) (NP (DT any) (NN meaning))) (PP (JJ other) (IN than) (, ,) (`` ``) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG enjoying) (NP (DT the) (NN massage)))))))))) (. .)))
+(ROOT (*ref78*S (S (NP (PRP It)) (VP (`` `) (VBZ s) (ADJP (JJ like)))) (, ,) (NP (PRP it)) (VP (MD could) (VP (VB n`t) (VP (VB be) (VP (VBN loaded) (PP (IN with) (NP (DT any) (NN meaning))) (PP (JJ other) (IN than) (, ,) (`` ``) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG enjoying) (NP (DT the) (NN massage)))))))))) (. .)))
 (ROOT (S (NP (NNP Please)) (VP (VBP continue)) (. .) ('' '')))
 Travis
 (ROOT (S (NP (DT *tok78* That *tok78*)) (VP (`` `) (VBZ s) (ADJP (JJ true))) (. .)))
@@ -1175,7 +1175,7 @@ Justin
 Audience
 (ROOT (PRN (-LRB- -LRB-) (VB cheers) (-RRB- -RRB-)))
 Travis
-(ROOT (SINV (S (NP (PRP I)) (VP (MD would) (VP (VB like) (PP (TO to) (PRN (, ,) (PP (IN by) (NP (DT the) (NN way))) (, ,)) (NP (NN posit)))))) (: ...) (NP (NNP Sillydelphia)) (. .)))
+(ROOT (SINV (S (NP (PRP I)) (VP (MD would) (VP (VB like) (PP (TO to) (PRN (, ,) (PP (IN by) (NP (DT the) (NN way))) (, ,)) (NP (NN posit)))))) (: ...) (*ref79*NP (NNP Sillydelphia)) (. .)))
 Griffin
 (ROOT (FRAG (WRB Why) (. ?)))
 Travis
@@ -1197,11 +1197,11 @@ Justin
 (ROOT (S (NP (PRP He)) (VP (VBZ knows) (NP (DT the) (NN recipe))) (. .)))
 (ROOT (S (NP (NP (-LRB- -LRB-) (NNP sings) (-RRB- -RRB-)) (NP (DT *tok80* This *tok80*))) (VP (VBZ is) (NP (DT the) (JJ new) (NN segment))) (. !)))
 (ROOT (S (NP (PRP It)) (`` `) (VP (VBZ s) (NP (CD one)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD made) (PRT (RP up)))))) (. .)))
-(ROOT (S (RB So) (VP (VP (VB pour) (S (NP (PRP yourself)) (NP (NP (DT a) (NN cup)) (PP (IN of) (NP (NNP Minion) (NNP Quotes)))))) (, ,) (CC and) (VP (VB drink) (NP (DT the) (NN cup)) (ADVP (RB right) (RB up)))) (. !)))
+(ROOT (S (RB So) (VP (VP (VB pour) (S (NP (PRP yourself)) (NP (NP (DT a) (NN cup)) (PP (IN of) (*ref80*NP (NNP Minion) (NNP Quotes)))))) (, ,) (CC and) (VP (VB drink) (NP (DT the) (NN cup)) (ADVP (RB right) (RB up)))) (. !)))
 Audience
 (ROOT (PRN (-LRB- -LRB-) (VB cheers) (-RRB- -RRB-)))
 Justin
-(ROOT (S (IN So) (NP (DT *tok81* this *tok81*)) (VP (VBZ is) (NP (NP (DT a) (JJ new) (NN segment)) (VP (VBN called) (NP (NNP Minion) (NNP Quotes))))) (. .)))
+(ROOT (S (IN So) (NP (DT *tok81* this *tok81*)) (VP (VBZ is) (*ref81*NP (NP (DT a) (JJ new) (NN segment)) (VP (VBN called) (NP (NNP Minion) (NNP Quotes))))) (. .)))
 (ROOT (S (PP (IN For) (NP (DT the) (JJ past) (JJ few) (NNS weeks))) (, ,) (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (VP (VBN subscribed) (PP (TO to) (NP (NP (DT this) (NN page)) (VP (VBN called) (NP (NP (NNP Minion) (NNP Quotes)) (PP (IN on) (NP (NNP Facebook)))))))))) (. .)))
 Travis
 (ROOT (S (S (VP (NNP Is) (S (NP (PRP it)) (NP (NP (RB just) (DT a) (NN lot)) (PP (IN of) (NP (JJ like))))))) (, ,) (`` ``) (VP (VBZ Banana)) (. .) ('' '')))
@@ -1209,7 +1209,7 @@ Justin
 (ROOT (S (FRAG (INTJ (UH No)) (, ,) (NP (PRP$ my) (NN friend))) (, ,) (NP (PRP it)) (`` `) (VP (VBZ s) (RB not)) (. .)))
 (ROOT (FRAG (NP (NNP Um)) (: ...) (S (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ gonna) (SBAR (S (VP (VBP give) (NP (PRP you)))))) (: --) (SBAR (IN so) (, ,) (S (NP (DT *tok82* this *tok82*)) (VP (VBZ is) (NP (NP (DT the) (NN game)) (PP (IN with) (NP (NNP Minion) (NNP Quotes))))))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBP hope) (SBAR (S (NP (PRP you)) (VP (VBP 're) (NP (NP (DT all) (NN gonna)) (SBAR (S (VP (VBP enjoy) (NP (DT this)))))))))))) (. .)))
 (ROOT (S (S (SBAR (WHNP (WP What)) (S (NP (PRP it)) (VP (VBZ is)))) (PRN (, ,) (SINV (VBZ is) (NP (PRP it)))) (`` `) (VP (VBZ s) (NP (NP (DT a) (NN quote)) (PP (IN of) (NP (NP (NN sort)) (PP (IN of))))))) (: ...) (S (NP (PRP it)) (`` `) (VP (VBZ s) (NP (NP (DT a) (NN page)) (PP (JJ full) (IN of) (NP (NP (NNS platitudes)) (PP (IN with) (NP (NN sort))))) (PP (IN of) (NP (NP (JJ incongruous) (NNS images)) (VP (VBN attached) (PP (TO to) (NP (PRP them))))))))) (. .)))
-(ROOT (S (CC And) (NP (NP (DT the) (NN game)) (PP (IN of) (NP (NNP Minion) (NNP Quotes)))) (VP (VBZ is) (VP (PRN (, ,) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ gonna) (SBAR (S (S (VP (VB tell) (NP (PRP you)) (NP (DT the) (NN platitude)))) (, ,) (NP (PRP you)) (VP (VBP 're) (ADJP (JJ gonna))))))))) (VB tell) (NP (PRP me)) (NP (NP (DT the) (NN cartoon) (NN character)) (SBAR (WHNP (WDT that)) (S (`` `) (VP (VBZ s) (VP (VBN been) (VP (VBN attached) (PP (TO to) (NP (PRP it))))))))))) (. .)))
+(ROOT (S (CC And) (NP (NP (DT the) (NN game)) (PP (IN of) (NP (NNP Minion) (NNP Quotes)))) (VP (VBZ is) (VP (PRN (, ,) (*ref82*S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ gonna) (SBAR (S (S (VP (VB tell) (NP (PRP you)) (NP (DT the) (NN platitude)))) (, ,) (NP (PRP you)) (VP (VBP 're) (ADJP (JJ gonna))))))))) (VB tell) (NP (PRP me)) (NP (NP (DT the) (NN cartoon) (NN character)) (SBAR (WHNP (WDT that)) (S (`` `) (VP (VBZ s) (VP (VBN been) (VP (VBN attached) (PP (TO to) (NP (PRP it))))))))))) (. .)))
 (ROOT (S (CC And) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP get) (S (NP (PRP it)) (ADJP (RB right)))))) (, ,) (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB share) (NP (PRP it)) (PP (IN on) (NP (PRP$ my) (NNP Facebook) (NN page))))))) (: ...)))
 Audience
 (ROOT (PRN (-LRB- -LRB-) (NP (NP (NNS laughs)) (CC and) (NP (NNS cheers))) (-RRB- -RRB-)))
@@ -1221,7 +1221,7 @@ Griffin
 (ROOT (FRAG (WHNP (WDT What)) (. ?)))
 Justin
 (ROOT (INTJ (UH Yes) (. .)))
-(ROOT (S (`` ``) (ADVP (RB Would)) (NP (PRP you)) (VP (VBP go) (PP (IN for) (NP (NP (DT a) (NN ride)) (PP (IN with) (NP (NNP Sam) (NNP Elliott)))))) (. ?) ('' '')))
+(ROOT (*ref83**ref84*S (`` ``) (ADVP (RB Would)) (NP (PRP you)) (VP (VBP go) (PP (IN for) (NP (NP (DT a) (NN ride)) (PP (IN with) (NP (NNP Sam) (NNP Elliott)))))) (. ?) ('' '')))
 Travis
 (ROOT (S (CC So) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBD said) (`` `) (NP (NP (NNS platitudes)) (, ,) (`` `) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBD meant)))))))) (VP (VBZ is) (, ,) (ADVP (RB sometimes)) (PP (RB just) (NP (NNS sentences)))) (. .)))
 Griffin
@@ -1284,7 +1284,7 @@ Justin
 Travis
 (ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (VBD had) (NP (PRP it)))))) (. !)))
 Justin
-(ROOT (S (`` ``) (S (UCP (PP (PP (TO To) (NP (PRP$ my) (NN family) (CC and) (NNS friends))) (ADVP (RB nearby))) (CC and) (ADVP (RB far) (RB away))) (, ,) (NP (PRP I)) (VP (VBP want) (S (NP (PRP you)) (VP (TO to) (VP (VB know) (NP (DT *tok85* that *tok85*)) (ADVP (DT no) (NN matter) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (VP (VBG going) (PRT (RP on)))))))))))) (, ,) (NP (PRP I)) (ADVP (RB always)) (VP (VBP love) (NP (PRP you))) (. .) ('' '')))
+(ROOT (*ref86*S (`` ``) (S (UCP (PP (PP (TO To) (NP (PRP$ my) (NN family) (CC and) (NNS friends))) (ADVP (RB nearby))) (CC and) (ADVP (RB far) (RB away))) (, ,) (NP (PRP I)) (VP (VBP want) (S (NP (PRP you)) (VP (TO to) (VP (VB know) (NP (DT that)) (ADVP (DT no) (NN matter) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (VP (VBG going) (PRT (RP on)))))))))))) (, ,) (NP (PRP I)) (ADVP (RB always)) (VP (VBP love) (NP (PRP you))) (. .) ('' '')))
 Griffin
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Travis
@@ -1293,7 +1293,7 @@ Travis
 Justin
 (ROOT (S (NP (PRP I)) (VP (MD will) (VP (VB help) (NP (PRP you)) (PP (IN with) (NP (DT *tok86* this *tok86*))))) (. .)))
 (ROOT (S (NP (DT *tok87* This *tok87*)) (VP (VBZ is) (SBAR (WHADVP (WRB how) (RB much)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG gonna) (S (VP (VB help) (NP (PRP you))))))))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (DT a) (NN mascot))) (. .)))
+(ROOT (*ref87*S (NP (PRP It)) (VP (VBZ is) (NP (DT a) (NN mascot))) (. .)))
 Griffin
 (ROOT (FRAG (INTJ (UH Oh)) (, ,) (ADVP (RB okay)) (. .)))
 Travis
@@ -1335,7 +1335,7 @@ Justin
 (ROOT (INTJ (UH Okay) (. .)))
 (ROOT (INTJ (UH Okay) (. .)))
 (ROOT (S (S (NP (DT *tok89* This *tok89*)) (VP (VBZ is) (NP (WRB how)))) (: --) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ gonna) (SBAR (S (VP (VBP get) (S (VP (VBG fucking) (ADVP (RB cocky)) (ADVP (RB right) (RB now)))) (, ,) (S (ADJP (JJ okay))))))))) (. ?)))
-(ROOT (S (NP (DT This) (NN one)) (`` `) (VP (VBZ s) (NP (DT a) (NN dog))) (. .)))
+(ROOT (*ref89*S (NP (DT This) (NN one)) (`` `) (VP (VBZ s) (NP (DT a) (NN dog))) (. .)))
 Travis
 (ROOT (NP (DT A) (NN dog) (. ?)))
 Griffin
@@ -1417,7 +1417,7 @@ Travis
 (ROOT (FRAG (NP (DT A) (NN tea)) (, ,) (ADVP (RB too) (. .))))
 Justin
 (ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB all) (VP (VBN done) (, ,) (S (VP (VB thank) (NP (PRP you)))))) (. .)))
-(ROOT (FRAG (NP (-LRB- -LRB-) (NP (NP (NNS imitates)) (NP (DT a) (NN guitar) (NN riff))) (-RRB- -RRB-) (FW Dun) (NP (NP (NN dun) (NN dun)) (NP (NN dun) (NN dun)))) (. .)))
+(ROOT (*ref94**ref95*FRAG (NP (-LRB- -LRB-) (NP (NP (NNS imitates)) (NP (DT a) (NN guitar) (NN riff))) (-RRB- -RRB-) (FW Dun) (NP (NP (NN dun) (NN dun)) (NP (NN dun) (NN dun)))) (. .)))
 Griffin
 (ROOT (S (INTJ (UH Okay)) (, ,) (NP (NN everybody)) (ADVP (RB here)) (VP (VBD thought) (SBAR (S (NP (PRP you)) (VP (VBD were) (VP (VBG doing) (NP (DT a) (NNP Munch) (NNP Squad))))))) (. .)))
 Justin
@@ -1461,14 +1461,14 @@ Audience
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Griffin
 (ROOT (S (NP (DT *tok96* This *tok96*)) (VP (VBD was) (VP (VBN sent) (PP (IN in) (IN by) (NP (NP (DT the) (NN prospector)) (, ,) (NP (NNP Merit) (NNP Palmer)))))) (. .)))
-(ROOT (S (NP (PRP It)) (`` `) (VP (VBZ s) (VP (VBN asked) (PP (IN by) (NP (NP (NNP Yahoo) (NNP Answers) (NNP user) (NNP Paul)) (SBAR (WHNP (WP who)) (S (VP (VBZ asks) (, ,) (`` ``) (NP (NP (JJ Hot) (NNS Pockets)) (PP (IN for) (NP (NNS plants))))))))))) (. ?) ('' '')))
+(ROOT (S (NP (PRP It)) (`` `) (VP (VBZ s) (VP (VBN asked) (PP (IN by) (NP (NP (NNP Yahoo) (NNP Answers) (NNP user) (NNP Paul)) (SBAR (WHNP (WP who)) (S (VP (VBZ asks) (, ,) (`` ``) (*ref93**ref96**ref97*NP (NP (JJ Hot) (NNS Pockets)) (PP (IN for) (NP (NNS plants))))))))))) (. ?) ('' '')))
 Audience
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
 Griffin
 (ROOT (S (NP (DT *tok97* This *tok97*)) (VP (MD should) (VP (VB be) (NP (DT a) (NN fuckin) (`` `) (NNP Minion) (NNP Quote)))) (. .)))
 (ROOT (S (NP (PRP You)) (ADJP (JJ ready)) (. ?)))
 (ROOT (NP (DT This) (JJ first) (NN sentence) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD could) (VP (VB see) (NP (NP (DT this) (JJ first) (NN sentence)) (VP (VBG being) (VP (VBN said) (PP (IN by) (NP (NP (JJ like)) (, ,) (NP (NNP Kermit) (DT the) (NNP Frog)) (CC or) (NP (NN something)))) (PP (IN like) (NP (DT *tok98* that *tok98*)))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (MD could) (VP (VB see) (NP (NP (DT this) (JJ first) (NN sentence)) (VP (VBG being) (VP (VBN said) (PP (IN by) (NP (NP (JJ like)) (, ,) (*ref98*NP (NNP Kermit) (DT the) (NNP Frog)) (CC or) (NP (NN something)))) (PP (IN like) (NP (DT *tok98* that *tok98*)))))))) (. .)))
 (ROOT (S (`` ``) (S (NP (PRP I)) (VP (VBP love) (NP (JJ Hot) (NNS Pockets)))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBP love) (NP (PRP$ my) (NNS plants)))) (. .) ('' '')))
 Audience
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
@@ -1491,7 +1491,7 @@ Justin
 (ROOT (S (PP (IN Of) (NP (NN course))) (NP (PRP it)) (VP (VBZ helps)) (. .)))
 Travis
 (ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBD had) (VP (VBN said) (PP (IN like) (NP (DT a) (JJ venus) (NN fly) (NN trap))))))) (, ,) (NP (DT *tok99* that *tok99*)) (VP (`` `) (VBZ s) (ADJP (JJ obvious))) (. .)))
-(ROOT (S (NP (DT The) (NN answer)) (VP (VBZ is) (NP (JJ Hot) (NNS Pockets))) (. .)))
+(ROOT (*ref99*S (NP (DT The) (NN answer)) (VP (VBZ is) (NP (JJ Hot) (NNS Pockets))) (. .)))
 Griffin
 (ROOT (ADVP (RB Right) (. .)))
 (ROOT (PRN (-LRB- -LRB-) (VB laughs) (-RRB- -RRB-)))
@@ -1541,7 +1541,7 @@ Travis
 Griffin
 (ROOT (NP (NN Dirt) (. .)))
 Justin
-(ROOT (NP (NN Dirt) (. .)))
+(ROOT (*ref100*NP (NN Dirt) (. .)))
 Griffin
 (ROOT (S (NP (DT *tok100* That *tok100*)) (`` `) (VP (VBZ s) (NP (PRP it))) (. .)))
 (ROOT (S (S (ADVP (RB Now)) (NP (PRP we)) (`` `) (VP (VBP re) (S (VP (VBG talking) (NP (NNS plants)))))) (, ,) (FRAG (NP (NN baby))) (. .)))
@@ -1555,7 +1555,7 @@ Griffin
 (ROOT (INTJ (UH Yeah) (. .)))
 Justin
 (ROOT (S (NP (PRP You)) (VP (MD could) (VP (VB have) (NP (NN light)))) (. .)))
-(ROOT (FRAG (PP (IN Like)) (, ,) (PP (NP (NN go)) (PP (IN through))) (: ...) (NP (NN ice)) (. ?)))
+(ROOT (*ref101*FRAG (PP (IN Like)) (, ,) (PP (NP (NN go)) (PP (IN through))) (: ...) (NP (NN ice)) (. ?)))
 Travis
 (ROOT (S (NP (DT *tok101* That *tok101*)) (`` `) (VP (VBZ s) (RB not) (NP (DT a) (JJ Hot) (NN Pocket))) (. .)))
 (ROOT (S (NP (JJ Hot) (NNS Pockets)) (VP (VBP are) (VP (VBN n`t) (ADJP (JJ sausage)) (PP (IN through) (NP (NN bread))))) (. .)))
@@ -1586,13 +1586,13 @@ Griffin
 Justin
 (ROOT (S (NP (RB Here)) (`` `) (VP (VBZ s) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG saying)))))) (. .)))
 (ROOT (S (NP (PRP You)) (VP (VBP get) (NP (NP (DT a) (JJ big) (NN chunk)) (PP (IN of) (NP (NN ice))))) (. .)))
-(ROOT (S (CC And) (ADVP (RB then)) (NP (PRP you)) (VP (VBP glom) (NP (NP (DT a) (NN bunch)) (PP (IN of) (NP (NN dirt)))) (PP (IN around) (NP (PRP it)))) (: ...)))
+(ROOT (*ref102**ref103*S (CC And) (ADVP (RB then)) (NP (PRP you)) (VP (VBP glom) (NP (NP (DT a) (NN bunch)) (PP (IN of) (NP (NN dirt)))) (PP (IN around) (NP (PRP it)))) (: ...)))
 Griffin
 (ROOT (S (S (CC And) (ADVP (RB then)) (NP (PRP you)) (VP (VBP throw) (NP (PRP it)) (ADVP (RB away)) (, ,) (SBAR (IN because) (S (NP (DT *tok102* that *tok102*)) (VP (VBZ does) (NP (NN n`t))))))) (: --) (S (NP (DT that)) (`` `) (VP (VBZ s) (NP (NN nothing)))) (. .)))
 Travis
 (ROOT (S (NP (DT *tok103* That *tok103*)) (VP (`` `) (VBZ s) (ADJP (NN nothing))) (. .)))
 Justin
-(ROOT (S (ADVP (DT No) (RB no) (RB no)) (, ,) (NP (NP (JJ big) (NN chunk)) (PP (IN of) (NP (NN ice)))) (, ,) (S (VP (VB glom) (NP (NP (DT a) (NN bunch)) (PP (IN of) (NP (NN dirt)))) (PP (IN around) (NP (PRP it))))) (, ,) (VP (VBD put) (NP (DT the) (NN plant)) (PP (IN into)) (: --) (NP (NP (DT a) (JJ naked) (NN plant)) (PP (IN into) (NP (DT *tok104* that *tok104*))))) (. .)))
+(ROOT (S (ADVP (DT No) (RB no) (RB no)) (, ,) (*ref104*NP (NP (JJ big) (NN chunk)) (PP (IN of) (NP (NN ice)))) (, ,) (S (VP (VB glom) (NP (NP (DT a) (NN bunch)) (PP (IN of) (NP (NN dirt)))) (PP (IN around) (NP (PRP it))))) (, ,) (VP (VBD put) (NP (DT the) (NN plant)) (PP (IN into)) (: --) (NP (NP (DT a) (JJ naked) (NN plant)) (PP (IN into) (NP (DT *tok104* that *tok104*))))) (. .)))
 (ROOT (FRAG (PP (IN On) (NP (NP (NN top)) (PP (IN of) (NP (PRP it))))) (. .)))
 Travis
 (ROOT (S (VP (VB Make) (S (NP (DT that) (NN plant)) (ADJP (JJ tough)))) (. !)))
@@ -1610,7 +1610,7 @@ Griffin
 (ROOT (S (INTJ (UH No)) (, ,) (VP (VB listen)) (. .)))
 (ROOT (S (ADVP (RB Justin)) (, ,) (NP (PRP I)) (VP (VBP 'm) (PP (IN with) (NP (PRP you)))) (. .)))
 (ROOT (S (VP (VB Let) (SBAR (S (NP (PRP me)) (VP (VBP back) (NP (PRP you)) (PRT (RP up)))))) (. .)))
-(ROOT (S (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP do) (NP (DT this) (JJ wild) (NN thing))))) (, ,) (NP (PRP you)) (VP (VBP give) (NP (PRP them)) (NP (NP (NN ice)) (VP (VBN surrounded) (PP (IN by) (NP (NN dirt))))))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP sit) (NP (PRP them)) (PRT (RP down)))) (, ,)) (CC and) (ADVP (RB then)) (S (S (NP (PRP you)) (VP (VBP eat) (NP (NP (DT a) (JJ Hot) (NN Pocket)) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (PRP them)))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (VBP understand) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))) (. .)))
+(ROOT (S (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP do) (NP (DT this) (JJ wild) (NN thing))))) (, ,) (NP (PRP you)) (VP (VBP give) (NP (PRP them)) (NP (NP (NN ice)) (VP (VBN surrounded) (PP (IN by) (NP (NN dirt))))))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP sit) (NP (PRP them)) (PRT (RP down)))) (, ,)) (CC and) (ADVP (RB then)) (*ref105**ref106*S (S (NP (PRP you)) (VP (VBP eat) (NP (NP (DT a) (JJ Hot) (NN Pocket)) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (PRP them)))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (VBP understand) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))) (. .)))
 Travis
 (ROOT (S (NP (DT *tok105* That *tok105*)) (VP (VBD was) (NP (NP (DT the) (NN piece)) (SBAR (S (NP (PRP I)) (VP (VBD was) (ADJP (VBG missing))))))) (. .)))
 (ROOT (S (S (NP (PRP We)) (VP (VBD had) (NP (NP (RB plenty)) (PP (IN of) (NP (DT the) (NN nature)))))) (: --) (S (NP (PRP you)) (VP (VBP need) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT the) (NN nurture)))))) (. .)))
@@ -1717,7 +1717,7 @@ Justin
 Griffin
 (ROOT (S (NP (-LRB- -LRB-) (NNP laughing) (-RRB- -RRB-)) (ADVP (RB Here)) (`` `) (VP (VBZ s) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (MD 'll) (VP (VB say)))))) (. .)))
 Justin
-(ROOT (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN fair)) (SBAR (IN that) (S (NP (DT a) (NNP Hot) (NNP Pocket)) (VP (MD should) (ADVP (RB never)) (VP (VB get) (S (VP (TO to) (VP (VB eat) (NP (DT a) (JJ Hot) (NN Pocket)))))))))) (. ?)))
+(ROOT (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN fair)) (SBAR (IN that) (*ref109*S (NP (DT a) (NNP Hot) (NNP Pocket)) (VP (MD should) (ADVP (RB never)) (VP (VB get) (S (VP (TO to) (VP (VB eat) (NP (DT a) (JJ Hot) (NN Pocket)))))))))) (. ?)))
 Travis
 (ROOT (S (INTJ (UH No)) (, ,) (NP (DT *tok109* that *tok109*)) (VP (VBZ is) (ADJP (JJ cruel))) (. !)))
 Justin
@@ -1734,7 +1734,7 @@ Travis
 Audience
 (ROOT (NP (NP (-LRB- -LRB-) (NN laughing) (-RRB- -RRB-)) (PRN (-LRB- -LRB-) (NP (NN theme) (NN music) (NNS plays)) (-RRB- -RRB-))))
 Griffin
-(ROOT (S (S (VP (VB Hey) (NP (NN everybody)))) (, ,) (NP (DT *tok110* this *tok110*)) (VP (VBZ is) (NP (NNP Griffin) (NNP McElroy))) (. .)))
+(ROOT (S (S (VP (VB Hey) (NP (NN everybody)))) (, ,) (NP (DT *tok110* this *tok110*)) (VP (VBZ is) (*ref110*NP (NNP Griffin) (NNP McElroy))) (. .)))
 (ROOT (NP (NP (NNS Thanks)) (PP (IN for) (S (VP (VBG listening) (PP (TO to) (NP (NNP MBMBaM)))))) (. .)))
 (ROOT (S (ADVP (RB Hope)) (NP (PRP you)) (VP (VBP 're) (VP (VBG enjoying) (NP (PRP it)))) (. .)))
 (ROOT (S (NP (NNP Uh)) (PRN (, ,) (S (S (NP (PRP we)) (ADVP (RB usually)) (VP (VBP do) (S (NP (NN n`t)) (VP (VB put) (PRT (RP up)) (NP (NP (CD two) (JJ live) (NNS episodes)) (PP (IN in) (NP (DT a) (NN row)))))))) (, ,) (S (CC but) (NP (PRP we)) (ADVP (DT all)) (VP (VBP are) (ADJP (JJ sick)))) (, ,) (CC and) (S (NP (PRP we)) (ADVP (DT all)) (VP (VP (VBD were) (ADJP (RB super) (JJ sick)) (NP (JJ last) (NN week))) (, ,) (CC and) (VP (ADVP (RB just)) (MD could) (RB not) (VP (VB get) (NP (DT a) (JJ good) (NN recording) (NN time)) (SBAR (WHADVP (WRB where)) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP us)))) (VP (VBD was) (VP (VBN n`t) (PRN (, ,) (S (NP (NN y')) (VP (VBP know))) (, ,)) (S (VP (VBG floating) (PRT (RP on)) (SBAR (IN that) (S (NP (`` `) (NP (NNP Quil)) (, ,) (CC or) (NP (NN y'))) (VP (VBP know))))))))))))))) (, ,)) (VP (VBD had) (NP (NP (DT a) (NN voice)) (SBAR (WHNP (WDT that)) (S (VP (VBD sounded) (SBAR (S (PP (IN like) (NP (PRP we))) (NP (`` `) (NP (SYM d)) (VP (VBN been) (VP (VBG eating))) (, ,)) (VP (VBP um) (PRN (, ,) (S (NP (NN y')) (VP (VBP know))) (, ,)) (NP (NN sand) (NNS burgers)))))))))) (. .)))
