@@ -1,0 +1,67 @@
+that	ref:1 label:S prev1:love prev2:People next1:. same_sent:0 same_speaker:0 dist:10 cataphora:0 
+that	ref:1 label:SBARQ prev1:at prev2:laugh next1:. same_sent:0 same_speaker:0 dist:13 cataphora:0 
+that	ref:1 label:SBAR next1:would next2:be same_sent:0 same_speaker:0 dist:3 cataphora:0 
+this	ref:0 prev1:And next1:is next2:where 
+that	ref:0 prev1:`` prev2:, next1:'s next2:the 
+this	ref:1 label:NP det:a det-type:indef prev1:, prev2:anyway next1:is next2:a same_sent:1 same_speaker:1 dist:1 cataphora:1 
+that	ref:1 label:S prev1:And next1:means next2:-- same_sent:0 same_speaker:0 dist:1 cataphora:0 
+that	ref:1 label:NP det-type:none next1:'s next2:interesting same_sent:0 same_speaker:0 dist:12 cataphora:0 
+that	ref:1 label:S next1:actually next2:would same_sent:0 same_speaker:0 dist:22 cataphora:0 
+that	ref:1 label:S prev1:know prev2:I next1:. same_sent:0 same_speaker:0 dist:2 cataphora:0 
+that	ref:1 label:SBARQ prev1:, prev2:Like next1:is next2:his same_sent:0 same_speaker:0 dist:39 cataphora:0 
+that	ref:1 label:S next1:'s next2:true same_sent:0 same_speaker:1 dist:0 cataphora:0 
+that	ref:0 next1:'s next2:good 
+that	ref:1 label:NP det:a det-type:indef prev1:and prev2:, next1:'s next2:it same_sent:1 same_speaker:1 dist:2 cataphora:0 
+that	ref:1 label:VP prev1:do prev2:n't next1:! same_sent:0 same_speaker:1 dist:5 cataphora:0 
+that	ref:1 label:S prev1:n't prev2:Is next1:something next2:? same_sent:0 same_speaker:0 dist:2 cataphora:0 
+this	ref:0 next1:is next2:all 
+that	ref:0 prev1:killed prev2:just next1:. 
+this	ref:1 label:S prev1:, prev2:Yeah next1:is next2:... same_sent:0 same_speaker:1 dist:2 cataphora:0 
+this	ref:1 label:S prev1:, prev2:Okay next1:-- next2:being same_sent:1 same_speaker:1 dist:1 cataphora:1 
+this	ref:0 prev1:long prev2:how next1:is next2:gonna 
+this	ref:0 prev1:Is next1:our next2:last 
+that	ref:1 label:S next1:, next2:for same_sent:0 same_speaker:0 dist:3 cataphora:0 
+this	ref:0 next1:is next2:gonna 
+that	ref:0 next1:'s next2:kind 
+this	ref:1 label:SBARQ next1:is next2:an same_sent:0 same_speaker:1 dist:39 cataphora:0 
+that	ref:1 label:S next1:is next2:on same_sent:0 same_speaker:0 dist:0 cataphora:0 
+this	ref:0 prev1:, prev2:Yes next1:is next2:remarkable 
+that	ref:1 label:S next1:'s next2:fine same_sent:0 same_speaker:0 dist:0 cataphora:0 
+that	ref:1 label:SBAR next1:'s next2:fuckin same_sent:0 same_speaker:1 dist:1 cataphora:0 
+this	ref:1 label:NP det-type:none prev1:at prev2:good next1:, next2:I same_sent:0 same_speaker:0 dist:94 cataphora:0 
+this	ref:0 prev1:But next1:is next2:the 
+this	ref:0 next1:is next2:like 
+that	ref:1 label:SBARQ next1:'s next2:hard same_sent:0 same_speaker:0 dist:5 cataphora:0 
+this	ref:1 label:S prev1:maybe prev2:And next1:is next2:just same_sent:0 same_speaker:0 dist:24 cataphora:1 
+that	ref:1 label:S next1:sounds next2:a same_sent:0 same_speaker:1 dist:57 cataphora:0 
+that	ref:1 label:S prev1:And prev2:-RRB- next1:'s next2:not same_sent:0 same_speaker:0 dist:5 cataphora:0 
+that	ref:0 next1:'s next2:when 
+that	ref:1 label:S next1:was next2:my same_sent:0 same_speaker:0 dist:0 cataphora:0 
+that	ref:1 label:SBAR next1:'s next2:so same_sent:0 same_speaker:0 dist:11 cataphora:0 
+that	ref:1 label:SBAR prev1:, prev2:there next1:'s next2:awesome same_sent:1 same_speaker:1 dist:1 cataphora:0 
+that	ref:1 label:NP det:these det-type:indef prev1:Put next1:in next2:that same_sent:0 same_speaker:0 dist:13 cataphora:0 
+that	ref:1 label:NP det:these det-type:indef prev1:Put next1:in next2:there same_sent:0 same_speaker:0 dist:8 cataphora:0 
+that	ref:1 label:S prev1:like prev2:I next1:! next2:'' same_sent:1 same_speaker:1 dist:4 cataphora:0 
+that	ref:0 prev1:see prev2:I next1:, next2:and 
+this	ref:1 label:NP det:a det-type:indef prev1:with prev2:that next1:... next2:a same_sent:1 same_speaker:1 dist:1 cataphora:1 
+this	ref:1 label:NP det-type:none prev1:, prev2:Hi next1:is next2:Rachel same_sent:1 same_speaker:1 dist:1 cataphora:1 
+this	ref:1 label:SBAR prev1:like prev2:smelled next1:then next2:, same_sent:0 same_speaker:0 dist:13 cataphora:0 
+that	ref:1 label:S next1:'s next2:fun same_sent:0 same_speaker:1 dist:0 cataphora:0 
+that	ref:0 next1:'s next2:a 
+that	ref:0 prev1:Would next1:have next2:alerted 
+that	ref:1 label:NP det-type:none next1:'s next2:an same_sent:0 same_speaker:1 dist:1 cataphora:0 
+that	ref:1 label:SBAR prev1:like prev2:feel next1:'s next2:good same_sent:0 same_speaker:0 dist:9 cataphora:0 
+that	ref:1 label:ADVP prev1:, prev2:Okay next1:was next2:the same_sent:0 same_speaker:1 dist:3 cataphora:0 
+that	ref:1 label:VP prev1:love prev2:'d next1:, next2:Griff same_sent:0 same_speaker:1 dist:6 cataphora:0 
+that	ref:1 label:NP det-type:none next1:'s next2:so same_sent:0 same_speaker:0 dist:1 cataphora:0 
+that	ref:1 label:S prev1:know prev2:you next1:? same_sent:1 same_speaker:1 dist:3 cataphora:0 
+this	ref:1 label:SBAR prev1:`` prev2:, next1:is next2:totally same_sent:0 same_speaker:0 dist:17 cataphora:0 
+that	ref:1 label:VP prev1:than prev2:it next1:, next2:I same_sent:0 same_speaker:0 dist:18 cataphora:0 
+this	ref:0 prev1:take prev2:to next1:to next2:a 
+this	ref:0 prev1:, prev2:so next1:is next2:wild 
+this	ref:1 label:NP det-type:none prev1:, prev2:Hello next1:is next2:Aimee same_sent:1 same_speaker:1 dist:1 cataphora:1 
+this	ref:1 label:SBAR prev1:and prev2:, next1:is next2:literally same_sent:0 same_speaker:0 dist:50 cataphora:0 
+that	ref:1 label:NP det-type:none next1:'s next2:StitchFix.com\/Brother same_sent:0 same_speaker:0 dist:19 cataphora:0 
+this	ref:0 prev1:for prev2:clapping next1:? 
+that	ref:1 label:S next1:'s next2:not same_sent:0 same_speaker:0 dist:0 cataphora:0 
+this	ref:1 label:VP next1:is next2:an same_sent:0 same_speaker:1 dist:3 cataphora:0 

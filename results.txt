@@ -1,0 +1,105 @@
+FINAL TEST!
+The training data contains 216.0 'this' pronouns (36.12040133779264%) and 382.0 'that' pronouns (63.87959866220736%)
+468.0 of the pronouns (78.26086956521739%) have a referent in the text
+performing most common baseline
+incorrect prediction on the following test cases: [3, 7, 8, 9, 13, 19, 20, 29, 35, 39, 41, 42, 43, 44, 45, 50, 53, 54, 56, 57, 58, 60, 61, 63, 64, 65, 67, 69, 71]
+
+CONFUSION MATRIX
+                 prediction
+
+                this	that
+target    this	0	29
+          that	0	45
+
+ACCURACY:	0.6081081081081081
+
+		this		that
+PRECISION	nan	0.608108
+RECALL		0.000000	1.000000
+F1		nan	0.756303
+
+
+performing k-nearest-neighbor algorithm with 5 neighbors
+incorrect prediction on the following test cases: [0, 3, 7, 8, 13, 14, 20, 29, 45, 53, 54, 57, 58, 59, 60, 64, 71]
+
+CONFUSION MATRIX
+                 prediction
+
+                this	that
+target    this	15	14
+          that	3	42
+
+ACCURACY:	0.7702702702702703
+
+		this		that
+PRECISION	0.833333	0.750000
+RECALL		0.517241	0.933333
+F1		0.638298	0.831683
+
+
+running support-vector machine algorithm with linear kernel
+incorrect prediction on the following test cases: [0, 10, 39, 60]
+
+CONFUSION MATRIX
+                 prediction
+
+                this	that
+target    this	27	2
+          that	2	43
+
+ACCURACY:	0.9459459459459459
+
+		this		that
+PRECISION	0.931034	0.955556
+RECALL		0.931034	0.955556
+F1		0.931034	0.955556
+
+
+running multi-layer perceptron with 2 hidden layers of 10 neurons
+incorrect prediction on the following test cases: [40, 44, 59, 60]
+
+CONFUSION MATRIX
+                 prediction
+
+                this	that
+target    this	27	2
+          that	2	43
+
+ACCURACY:	0.9459459459459459
+
+		this		that
+PRECISION	0.931034	0.955556
+RECALL		0.931034	0.955556
+F1		0.931034	0.955556
+
+
+MOST PREDICTIVE FEATURES
+
+cataphora:0        	that	0.5164219328019124
+cataphora:1        	this	0.36502611848245076
+same_sent:0        	that	0.30738693443244414
+ref:1              	that	0.2873306466835031
+ref:0              	this	0.28733064668350305
+label:S            	that	0.17916422542729907
+det:this           	this	0.13579409369396828
+next2:''           	this	0.13420320856989504
+next2:it           	that	0.12862683651685672
+same_speaker:1     	that	0.12252416400142953
+same_speaker:0     	that	0.12169244017016419
+next1:has          	this	0.10912935266425496
+next2:been         	this	0.10912935266425496
+next1:...          	this	0.10912935266425491
+prev1:in           	this	0.1091293526642549
+prev1:doing        	this	0.10912935266425486
+next2:I            	this	0.10912935266425486
+prev1:--           	this	0.10432359208881595
+prev2:you          	this	0.10432359208881593
+next2:from         	that	0.10293723206105747
+next2:the          	this	0.10101185923883178
+
+
+
+Average distance for 'that':6.1404682274247495
+Average distance for 'this':1.4849498327759196
+Average magnitude of distance for 'that':9.173913043478262
+Average magnitude of distance for 'this':6.7324414715719065

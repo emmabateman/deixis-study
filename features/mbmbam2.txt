@@ -1,0 +1,165 @@
+that	ref:1 label:VP prev1:, prev2:agree next1:would next2:be same_sent:0 same_speaker:0 dist:9 cataphora:0 
+this	ref:0 prev1:, prev2:already next1:is next2:a 
+that	ref:1 label:NP det:the det-type:def next1:is next2:what same_sent:0 same_speaker:1 dist:1 cataphora:0 
+this	ref:1 label:S prev1:read prev2:to next1:... same_sent:0 same_speaker:0 dist:9 cataphora:1 
+that	ref:1 label:S prev1:edit prev2:gonna next1:in next2:at same_sent:0 same_speaker:0 dist:20 cataphora:0 
+this	ref:1 label:NP det:the det-type:def prev1:-- prev2:you next1:wo next2:n't same_sent:1 same_speaker:1 dist:6 cataphora:0 
+that	ref:1 label:NP det-type:none prev1:, prev2:Well next1:was next2:Gallagher same_sent:0 same_speaker:0 dist:3 cataphora:0 
+this	ref:1 label:S next1:is next2:true same_sent:0 same_speaker:0 dist:4 cataphora:0 
+that	ref:0 prev1:`` prev2:, next1:'s next2:the 
+that	ref:1 label:NP det-type:none next1:'s next2:a same_sent:0 same_speaker:0 dist:2 cataphora:0 
+this	ref:1 label:S prev1:Did next1:go next2:how same_sent:0 same_speaker:0 dist:13 cataphora:0 
+that	ref:1 label:S next1:'s next2:why same_sent:0 same_speaker:0 dist:7 cataphora:1 
+that	ref:1 label:S next1:'s next2:what same_sent:1 same_speaker:1 dist:4 cataphora:1 
+that	ref:0 prev1:`` prev2:, next1:will next2:throw 
+that	ref:1 label:VP prev1:`` next1:would next2:kill same_sent:0 same_speaker:0 dist:21 cataphora:0 
+that	ref:1 label:S next1:was next2:timed same_sent:0 same_speaker:0 dist:12 cataphora:0 
+that	ref:1 label:S prev1:to prev2:specifically next1:. same_sent:0 same_speaker:1 dist:11 cataphora:0 
+that	ref:1 label:NP det-type:none next1:'s next2:so same_sent:0 same_speaker:0 dist:1 cataphora:0 
+this	ref:1 label:NP det-type:none prev1:And next1:is next2:an same_sent:1 same_speaker:1 dist:1 cataphora:1 
+this	ref:1 label:VP next1:is next2:an same_sent:0 same_speaker:1 dist:3 cataphora:0 
+this	ref:1 label:VP next1:is next2:like same_sent:0 same_speaker:1 dist:13 cataphora:0 
+that	ref:1 label:S next1:is next2:a same_sent:0 same_speaker:0 dist:3 cataphora:0 
+this	ref:1 label:S prev1:and prev2:... next1:is next2:why same_sent:0 same_speaker:0 dist:12 cataphora:1 
+this	ref:0 prev1:in prev2:punctuation next1:, next2:so 
+that	ref:1 label:S next1:sounds next2:a same_sent:0 same_speaker:1 dist:57 cataphora:0 
+that	ref:1 label:S next1:'s next2:right same_sent:0 same_speaker:1 dist:0 cataphora:0 
+that	ref:1 label:S next1:'s next2:how same_sent:0 same_speaker:0 dist:4 cataphora:0 
+this	ref:0 next1:is next2:not 
+that	ref:1 label:VP prev1:, prev2:Okay next1:is next2:what same_sent:0 same_speaker:0 dist:3 cataphora:0 
+that	ref:1 label:S prev1:And next1:'s next2:from same_sent:0 same_speaker:0 dist:14 cataphora:0 
+this	ref:0 prev1:And next1:is next2:like 
+this	ref:1 label:S prev1:so prev2:, next1:is next2:a same_sent:0 same_speaker:0 dist:15 cataphora:0 
+this	ref:1 label:S next1:is next2:actually same_sent:0 same_speaker:1 dist:11 cataphora:0 
+this	ref:0 prev1:solve prev2:summarily next1:in next2:the 
+this	ref:1 label:NP det:this det-type:indef prev1:... prev2:has next1:is next2:a same_sent:1 same_speaker:1 dist:2 cataphora:0 
+that	ref:1 label:NP det:this det-type:indef next1:'s next2:a same_sent:0 same_speaker:1 dist:10 cataphora:0 
+this	ref:1 label:S prev1:, prev2:Okay next1:-- next2:being same_sent:1 same_speaker:1 dist:1 cataphora:1 
+this	ref:0 prev1:fuck prev2:, next1:. next2:'' 
+this	ref:1 label:NP det:this det-type:indef prev1:holding prev2:not next1:in next2:your same_sent:0 same_speaker:1 dist:189 cataphora:0 
+that	ref:1 label:S prev1:What next1:means next2:to same_sent:0 same_speaker:1 dist:33 cataphora:0 
+this	ref:1 label:NP det:a det-type:indef prev1:in prev2:time next1:. next2:'' same_sent:0 same_speaker:0 dist:20 cataphora:0 
+this	ref:1 label:NP det:a det-type:indef prev1:`` next1:is next2:something same_sent:0 same_speaker:1 dist:41 cataphora:0 
+this	ref:1 label:NP det:this det-type:indef prev1:loves prev2:dad next1:! same_sent:0 same_speaker:1 dist:7 cataphora:0 
+that	ref:1 label:S prev1:like prev2:off next1:. same_sent:0 same_speaker:0 dist:23 cataphora:0 
+this	ref:1 label:VP prev1:posit prev2:could next1:, next2:though same_sent:1 same_speaker:1 dist:3 cataphora:1 
+this	ref:1 label:S prev1:do prev2:to next1:, next2:but same_sent:0 same_speaker:0 dist:11 cataphora:1 
+this	ref:1 label:S prev1:enjoy prev2:'ll next1:... next2:coated same_sent:1 same_speaker:1 dist:1 cataphora:1 
+this	ref:0 prev1:Is next1:local next2:beemen 
+this	ref:1 label:S prev1:And next1:is next2:the same_sent:0 same_speaker:0 dist:2 cataphora:0 
+that	ref:1 label:S prev1:Where next1:is next2:allowed same_sent:0 same_speaker:0 dist:14 cataphora:0 
+this	ref:1 label:NP det-type:none prev1:, prev2:Ah next1:is next2:a same_sent:1 same_speaker:1 dist:7 cataphora:0 
+this	ref:1 label:VP next1:ai next2:n't same_sent:0 same_speaker:1 dist:18 cataphora:0 
+that	ref:1 label:NP det:an det-type:indef prev1:if prev2:what next1:'s next2:the same_sent:0 same_speaker:1 dist:4 cataphora:0 
+that	ref:1 label:NP det-type:none next1:'s next2:the same_sent:0 same_speaker:0 dist:0 cataphora:0 
+that	ref:1 label:SBARQ prev1:And next1:'s next2:from same_sent:0 same_speaker:0 dist:19 cataphora:0 
+that	ref:1 label:NP det-type:none prev1:`` prev2:, next1:'s next2:-- same_sent:1 same_speaker:1 dist:5 cataphora:1 
+that	ref:1 label:NP det-type:none prev1:do prev2:to next1:on next2:the same_sent:0 same_speaker:0 dist:20 cataphora:0 
+that	ref:1 label:S next1:'s next2:true same_sent:0 same_speaker:1 dist:0 cataphora:0 
+that	ref:1 label:S next1:actually next2:would same_sent:0 same_speaker:0 dist:22 cataphora:0 
+this	ref:1 label:S prev1:... prev2:Ooh next1:is next2:true same_sent:0 same_speaker:1 dist:40 cataphora:0 
+that	ref:1 label:S next1:feels next2:very same_sent:0 same_speaker:0 dist:10 cataphora:0 
+this	ref:1 label:INTJ prev1:about prev2:What next1:? same_sent:0 same_speaker:0 dist:7 cataphora:1 
+that	ref:1 label:FRAG next1:'s next2:a same_sent:0 same_speaker:0 dist:15 cataphora:0 
+this	ref:1 label:NP det-type:none prev1:love prev2:I next1:. next2:'' same_sent:0 same_speaker:0 dist:3 cataphora:0 
+that	ref:1 label:S next1:'s next2:why same_sent:0 same_speaker:0 dist:2 cataphora:0 
+that	ref:1 label:VP prev1:does prev2:Money next1:. same_sent:0 same_speaker:1 dist:36 cataphora:0 
+this	ref:1 label:SBAR prev1:, prev2:you next1:is next2:also same_sent:1 same_speaker:1 dist:1 cataphora:0 
+that	ref:1 label:S next1:was next2:-- same_sent:0 same_speaker:0 dist:41 cataphora:0 
+that	ref:1 label:NP det:the det-type:def prev1:, prev2:Oh next1:'s next2:it same_sent:1 same_speaker:1 dist:6 cataphora:1 
+that	ref:0 next1:'s next2:good 
+that	ref:0 prev1:, prev2:Oh next1:'s next2:the 
+that	ref:1 label:S prev1:say prev2:he next1:? same_sent:0 same_speaker:0 dist:16 cataphora:0 
+that	ref:1 label:S next1:'s next2:so same_sent:0 same_speaker:0 dist:18 cataphora:0 
+that	ref:1 label:S next1:'s next2:true same_sent:0 same_speaker:1 dist:4 cataphora:0 
+that	ref:1 label:NP det-type:none prev1:Unposit next1:. same_sent:0 same_speaker:1 dist:14 cataphora:0 
+this	ref:1 label:NP det-type:none prev1:-RRB- prev2:sings next1:is next2:the same_sent:0 same_speaker:0 dist:20 cataphora:1 
+this	ref:1 label:NP det-type:none prev1:So next1:is next2:a same_sent:1 same_speaker:1 dist:1 cataphora:1 
+this	ref:1 label:S prev1:, prev2:so next1:is next2:the same_sent:0 same_speaker:0 dist:56 cataphora:1 
+this	ref:1 label:S next1:is next2:an same_sent:0 same_speaker:0 dist:23 cataphora:0 
+that	ref:1 label:S next1:'s next2:Taz same_sent:0 same_speaker:0 dist:155 cataphora:0 
+this	ref:1 label:S prev1:with prev2:you next1:. same_sent:0 same_speaker:0 dist:12 cataphora:0 
+this	ref:1 label:S next1:is next2:how same_sent:0 same_speaker:0 dist:9 cataphora:1 
+this	ref:0 next1:is next2:a 
+this	ref:1 label:S next1:is next2:how same_sent:0 same_speaker:0 dist:14 cataphora:1 
+this	ref:0 prev1:love prev2:I next1:. next2:'' 
+this	ref:0 prev1:`` next1:is next2:me 
+that	ref:0 prev1:, prev2:Alright next1:is next2:our 
+this	ref:1 label:NP det-type:none next1:is next2:asked same_sent:0 same_speaker:0 dist:279 cataphora:1 
+that	ref:1 label:FRAG prev1:, prev2:No next1:'s next2:it same_sent:0 same_speaker:0 dist:57 cataphora:0 
+this	ref:1 label:FRAG prev1:, prev2:Hey next1:is next2:the same_sent:0 same_speaker:1 dist:126 cataphora:0 
+this	ref:1 label:NP det-type:none next1:was next2:sent same_sent:0 same_speaker:0 dist:23 cataphora:1 
+this	ref:1 label:NP det-type:none next1:should next2:be same_sent:0 same_speaker:0 dist:5 cataphora:0 
+that	ref:1 label:NP det-type:none prev1:like prev2:something next1:. same_sent:1 same_speaker:1 dist:3 cataphora:0 
+that	ref:1 label:S prev1:, prev2:trap next1:'s next2:obvious same_sent:0 same_speaker:0 dist:4 cataphora:1 
+that	ref:1 label:NP det-type:none next1:'s next2:it same_sent:0 same_speaker:1 dist:0 cataphora:0 
+that	ref:1 label:FRAG next1:'s next2:not same_sent:0 same_speaker:1 dist:0 cataphora:0 
+that	ref:1 label:S prev1:because prev2:, next1:does next2:n`t same_sent:0 same_speaker:1 dist:8 cataphora:0 
+that	ref:1 label:S next1:'s next2:nothing same_sent:0 same_speaker:0 dist:17 cataphora:0 
+that	ref:1 label:NP det-type:none prev1:into prev2:plant next1:. same_sent:1 same_speaker:1 dist:18 cataphora:0 
+that	ref:1 label:S next1:was next2:the same_sent:0 same_speaker:1 dist:1 cataphora:0 
+that	ref:1 label:S next1:was next2:what same_sent:0 same_speaker:0 dist:42 cataphora:0 
+this	ref:0 next1:has next2:gotten 
+this	ref:0 prev1:of prev2:out next1:. 
+that	ref:1 label:S prev1:, prev2:No next1:is next2:cruel same_sent:0 same_speaker:1 dist:3 cataphora:0 
+this	ref:1 label:NP det-type:none prev1:, prev2:everybody next1:is next2:Griffin same_sent:1 same_speaker:1 dist:1 cataphora:1 
+this	ref:1 label:NP det:a det-type:indef prev1:, prev2:so next1:is next2:a same_sent:1 same_speaker:1 dist:1 cataphora:1 
+that	ref:1 label:NP det-type:none next1:'s next2:ZipRecruiter.com\/MyBrother same_sent:0 same_speaker:0 dist:9 cataphora:0 
+that	ref:1 label:S prev1:But next1:may next2:be same_sent:0 same_speaker:0 dist:19 cataphora:0 
+this	ref:1 label:NP det-type:none prev1:, prev2:Uh next1:-- next2:there same_sent:0 same_speaker:0 dist:86 cataphora:0 
+that	ref:1 label:SBAR prev1:keep prev2:just next1:in next2:mind same_sent:0 same_speaker:0 dist:4 cataphora:0 
+that	ref:0 prev1:think prev2:I next1:'s next2:it 
+that	ref:1 label:VP prev1:do prev2:can next1:on next2:our same_sent:0 same_speaker:0 dist:28 cataphora:0 
+that	ref:1 label:NP det-type:none next1:'s next2:Candlenights same_sent:1 same_speaker:1 dist:2 cataphora:1 
+that	ref:1 label:NP det:this det-type:indef next1:'s next2:next same_sent:0 same_speaker:0 dist:6 cataphora:0 
+that	ref:1 label:NP det:this det-type:indef prev1:fucked prev2:I next1:up next2:. same_sent:0 same_speaker:0 dist:17 cataphora:0 
+that	ref:1 label:S prev1:, prev2:yeah next1:'s next2:it same_sent:1 same_speaker:1 dist:6 cataphora:0 
+this	ref:1 label:NP det-type:none prev1:, prev2:Hello next1:is next2:Amy same_sent:1 same_speaker:1 dist:1 cataphora:1 
+that	ref:1 label:NP det:some det-type:other prev1:what prev2:know next1:means next2:. same_sent:0 same_speaker:1 dist:19 cataphora:0 
+that	ref:1 label:NP det-type:none next1:'s next2:good same_sent:0 same_speaker:1 dist:0 cataphora:0 
+this	ref:1 label:NP det-type:none prev1:for prev2:well-suited next1:. same_sent:0 same_speaker:1 dist:18 cataphora:0 
+that	ref:1 label:S prev1:, prev2:Okay next1:'s next2:fair same_sent:0 same_speaker:1 dist:2 cataphora:0 
+this	ref:1 label:VP prev1:do prev2:to next1:and next2:not same_sent:0 same_speaker:0 dist:8 cataphora:0 
+that	ref:1 label:S prev1:saying prev2:was next1:! same_sent:0 same_speaker:1 dist:7 cataphora:0 
+that	ref:1 label:S prev1:urged prev2:one next1:! same_sent:0 same_speaker:0 dist:14 cataphora:0 
+this	ref:1 label:S prev1:did prev2:conversation next1:come next2:up same_sent:0 same_speaker:1 dist:26 cataphora:0 
+that	ref:0 next1:'s next2:not 
+this	ref:1 label:VP prev1:do prev2:I next1:without next2:becoming same_sent:0 same_speaker:0 dist:8 cataphora:0 
+that	ref:1 label:S next1:'s next2:even same_sent:0 same_speaker:1 dist:0 cataphora:0 
+this	ref:0 prev1:of prev2:show next1:, next2:you 
+that	ref:1 label:S next1:'s next2:what same_sent:0 same_speaker:0 dist:0 cataphora:0 
+that	ref:1 label:SBAR prev1:than prev2:worse next1:, next2:and same_sent:0 same_speaker:0 dist:15 cataphora:0 
+this	ref:1 label:NP det:the det-type:def prev1:done prev2:'ve next1:in next2:private same_sent:0 same_speaker:0 dist:12 cataphora:0 
+that	ref:1 label:S next1:'s next2:about same_sent:0 same_speaker:0 dist:3 cataphora:0 
+that	ref:0 prev1:Does next1:help next2:? 
+this	ref:1 label:SBARQ next1:is next2:a same_sent:0 same_speaker:0 dist:654 cataphora:1 
+that	ref:1 label:S prev1:love prev2:I next1:. same_sent:0 same_speaker:0 dist:14 cataphora:0 
+this	ref:1 label:NP det-type:none next1:is next2:my same_sent:1 same_speaker:1 dist:1 cataphora:1 
+this	ref:1 label:VP prev1:doing prev2:been next1:since next2:I same_sent:0 same_speaker:0 dist:81 cataphora:1 
+this	ref:1 label:VP prev1:, prev2:So next1:is next2:anytime same_sent:0 same_speaker:0 dist:8 cataphora:1 
+that	ref:1 label:PP prev1:stay prev2:to next1:. same_sent:0 same_speaker:0 dist:38 cataphora:0 
+that	ref:1 label:S prev1:mention prev2:to next1:-- next2:-LRB- same_sent:0 same_speaker:0 dist:8 cataphora:0 
+that	ref:1 label:S next1:was next2:fun same_sent:0 same_speaker:0 dist:10 cataphora:0 
+that	ref:1 label:S next1:'s next2:a same_sent:0 same_speaker:0 dist:14 cataphora:0 
+that	ref:1 label:VP next1:is next2:something same_sent:0 same_speaker:0 dist:7 cataphora:0 
+that	ref:1 label:S prev1:do prev2:would next1:for next2:me same_sent:0 same_speaker:0 dist:51 cataphora:0 
+this	ref:1 label:S prev1:say prev2:I next1:? same_sent:0 same_speaker:0 dist:35 cataphora:1 
+this	ref:1 label:VB prev1:say prev2:you next1:. same_sent:0 same_speaker:0 dist:1 cataphora:1 
+that	ref:1 label:S next1:'s next2:right same_sent:0 same_speaker:1 dist:1 cataphora:0 
+this	ref:1 label:VB prev1:But next1:is next2:not same_sent:0 same_speaker:0 dist:25 cataphora:0 
+this	ref:1 label:S prev1:with prev2:going next1:! same_sent:0 same_speaker:0 dist:17 cataphora:0 
+that	ref:0 prev1:Does next1:-- next2:does 
+that	ref:1 label:NNP prev1:because prev2:... next1:would next2:imply same_sent:1 same_speaker:1 dist:10 cataphora:0 
+that	ref:1 label:SBAR prev1:... prev2:Because next1:'s next2:not same_sent:0 same_speaker:0 dist:10 cataphora:0 
+this	ref:0 prev1:with prev2:experience next1:. 
+that	ref:1 label:NP det-type:none next1:'s next2:Travis same_sent:0 same_speaker:1 dist:12 cataphora:0 
+that	ref:0 next1:'s next2:mine 
+this	ref:1 label:NP det:a det-type:indef next1:is next2:a same_sent:0 same_speaker:0 dist:18 cataphora:1 
+this	ref:1 label:NP det:a det-type:indef next1:is next2:a same_sent:1 same_speaker:1 dist:1 cataphora:1 
+this	ref:0 prev1:, prev2:Oh next1:looks next2:like 
+that	ref:1 label:NP det-type:none prev1:Is next1:you next2:? same_sent:1 same_speaker:1 dist:0 cataphora:1 
+this	ref:0 next1:rules next2:! 
+that	ref:1 label:FRAG prev1:Take prev2:`` next1:, next2:Hitler same_sent:0 same_speaker:1 dist:5 cataphora:0 
+that	ref:0 prev1:does prev2:but next1:help next2:? 
+this	ref:1 label:S prev1:say prev2:will next1:... next2:I same_sent:1 same_speaker:1 dist:1 cataphora:1 
+this	ref:0 next1:has next2:been 
